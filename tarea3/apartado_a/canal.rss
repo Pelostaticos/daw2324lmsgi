@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <!-- CANAL DE NOTICIAS SEMANA SANTA ANDALUCIA -->
+    <channel>
+        <!-- Elementos obligatorios: title, link y description -->
+        <title>Canal de noticias "El Saetero"</title>
+        <link>http://www.elsaetero.daw</link>
+        <description>Canal de noticias de semana santa en andaluz</description>
+
+        <!-- Elementos opcionales: webmaster, category e image. -->
+        <category>Noticias</category>
+        <webMaster>canales@elsaetero.daw (El Saetero)</webMaster>
+        <image>
+            <url>https://zarasanta.com/1076-large_default/llamador-para-trono-ll-700.jpg</url>
+            <title>Logotipo El Saetero - Tu semana santa</title>
+            <link>https://zarasanta.com/</link>
+        </image>
+
+        <!-- LISTADO DE NOTICIAS SOLICITADAS -->
+        <!-- 1ªNOTICIA: Así será la Semana Santa de Sevilla 2024 -->
+        <item>
+            <!-- Aqui pongo lo minimo que recomendado a contener cada entrada de noticia -->
+            <title>Así será la Semana Santa de Sevilla 2024: todos los cambios y modificaciones</title>
+            <description>Cambios y modificaciones que afectarán a la Semana Santa en 2024</description>
+            <link>https://www.diariodesevilla.es/semana_santa/asi-sera-semana-santa-2024-cambios-modificaciones_0_1861315414.html</link>
+            <!-- el resto de elementos opcionales de una entrada de noticias -->
+            <author>manuel.lamprea@diariodesevilla.es (Manuel Lamprea)</author>
+            <category>General Sevilla</category>
+            <!-- Para calcular el atributo lenght he multiplicado el alto x ancho de la imagen x 4 bytes por pixel -->
+            <!-- Dado que cada pixel utiliza un byte por color (rojo, verde, azul) más el canal alfa de transparencia -->
+            <!-- Esto es lo que se me ha ocurrido hacer con la herramienta "Inspeccionar" del navegador web -->
+            <!-- NOTA: Desconozco si existe otra herramienta que permita saber el tamaño de los elementos multimedia sin descargarlos -->
+            <enclosure url="https://www.diariodesevilla.es/2023/12/28/semana_santa/Urna-discurre-Avenida-San-Francisco_1861324921_200154926_667x375.jpg"  length="1000500" type="image/jpeg" />
+            <pubDate>Thu, 28 Dec 2023 21:55:00 +0100</pubDate>
+        </item>
+        <!-- 2ªNOTICIA: web externa relacionada con hermandades de Andalucia -->
+        <!-- IslaPasion es un portal cofrade mi ciudad natal en San Fernando (Cádiz) -->
+        <item>
+            <title>Hoy saldrá en Vía-Crucis el Señor de Columna</title>
+            <description> Vía-Crucis el Señor Atado y Flagelado a la Columna por las calles de San Fernando (Cádiz)</description>
+            <link>https://islapasion.net/hoy-saldra-en-via-crucis-el-senor-de-columna/</link>
+            <author>contacto@islapasion.net (IslaPasion)</author>
+            <!-- Para calcular el atributo lenght he multiplicado el alto x ancho de la imagen x 4 bytes por pixel -->
+            <!-- Dado que cada pixel utiliza un byte por color (rojo, verde, azul) más el canal alfa de transparencia -->
+            <!-- Esto es lo que se me ha ocurrido hacer con la herramienta "Inspeccionar" del navegador web -->
+            <!-- NOTA: Desconozco si existe otra herramienta que permita saber el tamaño de los elementos multimedia sin descargarlos -->
+            <enclosure url="https://islapasion.net/wp-content/uploads/2024/02/portada1000207232-800x535.jpg" length="1712000" type="image/jpeg" />
+            <pubDate>Fri, 23 Feb 2024 09:36:00 +0100</pubDate>
+        </item>
+
+        <!-- 3ªNOTICIA: web externa relacionada con las imágenes de la Semana Santa Andaluza -->
+        <!-- Perfil Pinterest sobre la semana santa andaluza -->
+        <item>
+            <title>Semana Santa en foto</title>
+            <description>Colección de fotos de Isabel M.C en Pinterest de la Semena Santa</description>
+            <link>https://www.pinterest.es/imoya25/semana-santa-en-andalucia/</link>
+            <author>imoya25@pinteres.es (Isabel M. C.)</author>
+            <!-- Para calcular el atributo lenght he multiplicado el alto x ancho de la imagen x 4 bytes por pixel -->
+            <!-- Dado que cada pixel utiliza un byte por color (rojo, verde, azul) más el canal alfa de transparencia -->
+            <!-- Esto es lo que se me ha ocurrido hacer con la herramienta "Inspeccionar" del navegador web -->
+            <!-- NOTA: Desconozco si existe otra herramienta que permita saber el tamaño de los elementos multimedia sin descargarlos -->            
+            <enclosure url="https://i.pinimg.com/736x/21/68/e1/2168e1f2c41eca329f1b2a3fdeba738f.jpg" length="2835072" type="image/jpeg" />
+            <pubDate>Fri, 07 Apr 2023 17:36:00 +0100</pubDate>
+        </item>
+    </channel>
+</rss>

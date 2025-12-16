@@ -1,0 +1,438 @@
+/*
+Autor: Sergio García Butrón     (sergio.garciabutron@gmail.com)
+Creado: 15-01-2024 - 19:49:56
+*/
+
+/* FUENTES IMPORTADAS */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* POR DEFECTO */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* VARIABLES DE ESTILOS */
+:root {
+    /*COLORES*/
+    --color-primario: #fff;
+    --color-secundario: #000;
+    --color-terciario: #aaa;
+    --color-cuaternario: #666;
+    --color-quinternaerio: #ccc;
+    --color-destacado: crimson;
+    /*TAMAÑOS ELEMENTOS*/
+    --altura-navegacion: 50px;
+    --altura-cabecera: 130px;
+    --altura-piepagina: 50px;
+    --min-altura-principal: 250px;
+    --radio-bordes-imagenes: 10px;
+    --marco-imagen-subtitulo: 300px;
+    --ancho-caja-noticias: 550px;
+    --alto-caja-noticias: 500px;
+    --ancho-caja-noticia: 390px;
+    --marco-imagen-noticia: 140px;
+    --ancho-marco-imagen-articulo: 200px;
+    --alto-marco-imagen-articulo: 180px;
+    /*FACTORES CRECIMIENTO FLEXBOX*/
+    --factor-grow-principal: 0.5;
+    --factor-grow-seccion: 0.5;
+    /*DIMENSIONES GENERALES DE MARGEN Y PADDING*/
+    --mis-margenes: 10px;
+    --mis-paddings: var(--mis-margenes);
+    /*DIMENSIONES LOGOTIPOS E IMÁGENES*/
+    --logotipo-titulo: 48px;
+    --logotipo-subtitulo: 96px;
+    --imagen-subtitulo: var(--marco-imagen-subtitulo);
+    --imagen-noticia: var(--marco-imagen-noticia);
+    --imagen-articulo-alto: var(--alto-marco-imagen-articulo);
+    --imagen-articulo-ancho: var(--ancho-marco-imagen-articulo);
+}
+
+/* COMBINACIONES DE COLORES */
+.dark {
+    background-color: var(--color-secundario);
+    color:var(--color-primario)
+}
+.gray0 {
+    background-color: var(--color-terciario);
+    color:var(--color-secundario)
+}
+.gray1 {
+    background-color: var(--color-cuaternario);
+    color:var(--color-primario)
+}
+.white {
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
+}
+.destacado {
+    color: var(--color-destacado);
+    font-weight: 900;
+}
+.destacado2 {
+    color: var(--color-secundario);
+    font-weight: 600;    
+}
+/* EMPIEZA ESTRUCTURA DE LA PÁGINA >>> */
+/* CONTENEDOR */
+.contenedor {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: aqua;
+}
+
+/* MENÚ DE NAVEGACIÓN */
+.superior {
+    height: var(--altura-navegacion);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+.titulo {
+    width: 50vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* background-color: yellow; */
+}
+div.titulo h1 {
+    margin-left: calc(1.5*var(--mis-margenes));
+}
+div.titulo img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    object-fit: cover;
+    width: var(--logotipo-titulo);
+    height: var(--logotipo-titulo);
+}
+nav.menu {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    /* background-color: yellowgreen; */
+}
+nav.menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+}
+nav.menu ul li {
+    list-style-type: none;
+    padding: calc(1.5*var(--mis-paddings));
+}
+nav ul li a {
+    color: var(--color-secundario);
+    text-decoration: none;
+    transition: 1s;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+    transition: 0.5s;
+}
+#buscar {
+    margin-left: 35px;
+    width:200px;
+}
+
+/*CABECERA PÁGINA*/
+.cabecera {
+    min-height: var(--altura-cabecera);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*EL CONTENIDO DE LA PÁGINA*/
+.contenido {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+    /*CONTENIDOS PRINCIPALES*/
+    .principal {
+        /* background-color: yellow; */
+        /* background-color: var(--color-primario); */
+        display:flex;
+        flex: var(--factor-grow-principal) 0 var(--min-altura-principal);
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /*SECCIÓN DE CONTENIDOS*/
+    .seccion {
+        /* background-color: magenta; */
+        display:flex;
+        flex: var(--factor-grow-seccion) 0 calc(2*var(--altura-piepagina));        
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;        
+    }
+    section.seccion p {
+        font-size: 0.8rem;
+    }
+
+/*EL PIE DE LA PÁGINA*/
+.piepagina {
+    height: var(--altura-piepagina);
+    width: 100vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+/* <<< TERMINA ESTRUCTURA DE PÁGINA*/
+
+/* EMPIEZA PÁGINA INDEX.HTML >>>*/
+/* AQUI VIENEN LA ZONA IZQUIERDA DE CONTENIDOS PRINCIPALES */
+div.noticias {
+    /* background-color: maroon; */
+    /* border: var(--color-secundario) solid 1px; */
+    margin: 10px;
+    /* padding: 10px; */
+    height: var(--alto-caja-noticias);
+    width: var(--ancho-caja-noticias);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;               
+}
+div.noticias article {
+    /* background-color: magenta; */
+    border: var(--color-terciario) solid 1px;
+    min-height: 50px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+.caja-noticia  {
+    /* background-color: aqua; */
+    width: var(--ancho-caja-noticia);
+    min-height: var(--marco-imagen-noticia);
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.marcos {
+    border: var(--color-terciario) solid 1px;
+}
+div.imagen1 {
+    /* background-color: bisque; */
+    width: var(--marco-imagen-noticia);       
+    min-height: var(--marco-imagen-noticia);
+    background-color: var(--color-quinternaerio);
+    border-radius: var(--radio-bordes-imagenes);
+    border: var(--color-terciario) solid 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div.imagen1 img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    object-fit: cover;
+    width: var(--imagen-noticia);
+    height: var(--imagen-noticia);
+    border-radius: var(--radio-bordes-imagenes);      
+}
+div.caja-noticia h3 {
+    margin-bottom: calc(0.5*var(--mis-margenes));
+}
+div.caja-noticia p {
+    font-size: 0.8rem;
+    margin-bottom: calc(0.5*var(--mis-margenes));
+    text-align: justify;
+}
+div.caja-noticia a {
+    padding: 5px;
+    margin-left: calc(1.5*var(--mis-margenes));
+    border: var(--color-secundario) solid 1px;
+    border-radius: var(--radio-bordes-imagenes);
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+div.caja-noticia a:hover {
+    background-color: var(--color-secundario);
+    color: var(--color-primario);
+}
+/* AQUI VIENEN LA ZONA DERECHA DE CONTENIDOS PRINCIPALES */
+div.noticias section {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+div.noticias section p {
+    font-size: 0.8rem;
+}
+section.subtitulo img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    object-fit: cover;
+    width: var(--logotipo-subtitulo);
+    height: var(--logotipo-subtitulo);    
+}
+div.imagen2 {
+    background-color: var(--color-quinternaerio);
+    margin-top: 15px;
+    border: var(--color-terciario) solid 1px;
+    border-radius: var(--radio-bordes-imagenes);
+    height: var(--marco-imagen-subtitulo);
+    width: var(--marco-imagen-subtitulo);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+div.imagen2 img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    object-fit: cover;
+    width: var(--imagen-subtitulo);
+    height: var(--imagen-subtitulo);
+    border-radius: var(--radio-bordes-imagenes);      
+}
+/* AQUI VIENEN LA ZONA DE CONTENIDOS SECUNDARIOS */
+.articulos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+article.caja {
+    background-color: var(--color-primario);
+    /* border: #000 solid 1px; */
+    margin: 10px;
+    padding: 10px;
+    height: 275px;
+    width: 250px;
+}
+article.caja p {
+    font-size: 0.6rem;
+    text-align: justify;
+}
+div.imagen3 {
+    margin-bottom: 10px;
+    border-radius: var(--radio-bordes-imagenes);
+    height: var(--alto-marco-imagen-articulo);
+    display: flex;
+    flex-grow: 1 0 var(--ancho-marco-imagen-articulo);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-quinternaerio);
+}
+div.imagen3 img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    object-fit: cover;
+    width: var(--imagen-articulo-ancho);
+    height: var(--imagen-articulo-alto);
+    border-radius: var(--radio-bordes-imagenes);     
+}
+/* <<< TERMINA PÁGINA INDEX.HTML*/
+
+/* EMPIEZA PÁGINA INFO.HTML >>> */
+/*AQUI VIENE LA ZONA DE CONTENIDOS PRINCIPALES*/
+div.proyectos {
+    width: 600px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+;
+}
+div.proyectos h3 {
+    text-align: center;
+}
+div.proyectos table {    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+div.proyectos th,td {
+    border: var(--color-secundario) solid 1px;
+    text-align: center;
+    width: 140px;
+    padding: 10px;
+    
+}
+th.descripcion {
+    width: 300px;
+}
+td.descripcion {
+    width: 300px;
+}
+div.proyectos ul, ul {
+    margin-left: 30px;
+}
+/* AQUI VENDRÍA LA ZONA DE CONTENIDOS SECUNDARIOS */
+/* <<< TERMINA PÁGINA INFO.HTML */
+
+/* EMPIEZA PÁGINA CONTACTO.HTML >>> */
+/* AQUÍ VIENE LA ZONA DE CONTENIDOS PRINCIPALES */
+form.contacto {
+    background-color: var(--color-quinternaerio);
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;    
+}
+form.contacto input, select, label, textarea {
+    width: 390px;
+}
+form.contacto button {
+    background-color: var(--color-cuaternario);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 30px;
+    border: var(--color-cuaternario) solid 1px;
+    border-radius: 10px;
+    color: var(--color-primario)
+    
+}
+form.contacto button:hover {
+    background-color: var(--color-primario);
+    color: var(--color-secundario)
+}
+/* AQUÍ VIENE LA ZONA DE CONTENIDOS SECUNDARIOS */
+
+/* <<< TERMINA PÁGINA CONTACTO*/

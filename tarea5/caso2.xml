@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="plantilla.xsl" type="text/xsl"?>
+<investigacion>
+    <informacion>
+        <titulo>El Asalto Cibernético a Moebiüs</titulo>
+        <descripcion>En pleno auge de la tecnología, un 15 de abril de 2024, Moebiüs se ve sacudida
+            por un robo cibernético sin precedentes. La intrusión compromete datos cruciales, desde
+            información confidencial de clientes hasta secretos corporativos de alto nivel. La
+            empresa, ahora en crisis, se ve obligada a reunir a un equipo de expertos para descubrir
+            al culpable y recuperar lo perdido.</descripcion>
+        <imagen>./img/ciberdelincuencia.jpg</imagen>
+        <fecha>2024-04-15</fecha>
+    </informacion>
+    <personajes>
+
+        <personaje id="CM08" tipo="sospechoso">
+            <nombre>Carolina Martínez</nombre>
+            <edad>42</edad>
+            <profesion>Periodista de Tecnología</profesion>
+            <imagen>./img/carolina.png</imagen>
+            <icono>fa-solid fa-user-tie</icono>
+            <bio>Carolina Martínez es una periodista con conexiones oscuras en el mundo de la
+                ciberdelincuencia. Su búsqueda de una primicia sensacionalista podría haberla
+                llevado al robo de información confidencial. Carolina oculta un oscuro secreto del
+                pasado que la vincula estrechamente al sistema de seguridad de Moebiüs.</bio>
+            <motivo>Desesperada por una primicia que la vuelva famosa.</motivo>
+            <votos>201</votos>
+        </personaje>
+
+        <personaje id="LP09" tipo="sospechoso">
+            <nombre>Lucas Pérez</nombre>
+            <edad>15</edad>
+            <profesion>Joven Hacker</profesion>
+            <imagen>./img/lucas.png</imagen>
+            <icono>fa-solid fa-laptop-code</icono>
+            <bio>Lucas Pérez es un prodigio de la informática y el hacking. Sus contactos en la dark
+                web lo convierten en otro candidato posible para el robo de información
+                confidencial. Lucas guarda un secreto que podría poner en peligro a todos los
+                involucrados en el caso. Su juventud y su naturaleza impredecible lo convierten en
+                un sospechoso difícil de descifrar.</bio>
+            <motivo>Deseo de demostrar su habilidad y reputación en la comunidad hacker.</motivo>
+            <votos>125</votos>
+        </personaje>
+        <personaje id="XX00" tipo="víctima">
+            <nombre>Información Confidencial</nombre>
+            <edad>0</edad>
+            <profesion>ultrasecreto</profesion>
+            <imagen>./img/hacker.png</imagen>
+            <icono>fa-solid fa-info</icono>
+            <bio>Los datos robados representan un tesoro digital codiciado por muchos y peligroso en las manos equivocadas. Contienen información confidencial de clientes, datos personales, transacciones bancarias y secretos corporativos de Moebiüs. Este tesoro digital comprometido amenaza la estabilidad de la empresa y la confianza de sus clientes. </bio>
+        </personaje>
+        <personaje id="EG10" tipo="sospechoso">
+            <nombre>Eduardo García</nombre>
+            <edad>31</edad>
+            <profesion>Analista de Sistemas</profesion>
+            <imagen>./img/eduardo.png</imagen>
+            <icono>fa-solid fa-search</icono>
+                <bio>Eduardo García es un experto en sistemas y criptografía, empleado de la empresa Moebiüs. Su rivalidad con Carolina y sus conexiones con la comunidad hacker lo convierten en un sospechoso destacado en el robo de información confidencial. Detrás de su apariencia de profesionalismo y lealtad a la empresa, podría estar escondiendo un gran secreto oculto.</bio>
+            <motivo>Intento de desacreditar a Carolina y ganar reconocimiento.</motivo>
+            <votos>211</votos>
+        </personaje>
+        <personaje id="JS11" tipo="sospechoso">
+            <nombre>Juan Sánchez "Sauron"</nombre>
+            <edad>55</edad>
+            <profesion>Hacker Ético</profesion>
+            <imagen>./img/juans.png</imagen>
+            <icono>fa-solid fa-user-shield</icono>
+                <bio>Sauron es un hacker ético con un pasado misterioso. Su antigua amistad con Javier López y su participación en operaciones encubiertas lo convierten en una figura ambigua en este caso de robo. Aunque sus acciones sugieren un deseo genuino de proteger datos y mejorar la seguridad, Sauron guarda secretos que podrían sacar a la luz sus verdaderas intenciones.</bio>
+
+            <motivo>Acceder a datos para protegerlos y mejorar la seguridad, pero tal vez hay más en
+                juego de lo que parece.</motivo>
+            <votos>112</votos>
+
+        </personaje>
+        <personaje id="JL12" tipo="sospechoso">
+            <nombre>Javier López</nombre>
+            <edad>28</edad>
+            <profesion>Programador Freelance</profesion>
+            <imagen>./img/javil.png</imagen>
+            <icono>fa-solid fa-laptop</icono>
+                <bio>Javier López es un programador independiente con acceso a sistemas delicados. Su conexión con Juan Sánchez y sus intentos de mantener una reputación impecable lo convierten en un posible involucrado en el robo de información confidencial. A pesar de su apariencia de inocencia, Javier podría revelar una conspiración mucho más profunda.</bio>
+
+            <motivo>Obtener datos para venderlos en el mercado negro.</motivo>
+            <votos>135</votos>
+
+        </personaje>
+
+    </personajes>
+    <pistas>
+        <pista titulo="Sospechas entre sombras">
+            <personajes>
+                <personaje>CM08</personaje>
+                <personaje>LP09</personaje>
+            </personajes>
+            <descripcion>
+                <evento>Carolina fue vista junto a Lucas en un callejón poco antes del robo. Fuentes
+                    confirmadas comentan que Lucas mencionó en una conversación a un amigo que tenía
+                    un plan para obtener información importante que cambiaría su vida.</evento>
+                <evento>Carolina fue descubierta revisando documentos confidenciales fuera de su
+                    horario habitual.</evento>
+                <evento>Lucas estuvo ausente de sus clases durante varios días, alegando enfermedad,
+                    pero algunos testigos lo han visto en lugares sospechosos cerca de la empresa
+                    Moebiüs.</evento>
+            </descripcion>
+        </pista>
+        <pista titulo="Secretos enterrados">
+            <personajes>
+                <personaje>EG10</personaje>
+                <personaje>JS11</personaje>
+            </personajes>
+            <descripcion>
+                <evento>Eduardo recibió un pago considerable en su cuenta bancaria unos días antes
+                    del robo, según registros financieros descubiertos.</evento>
+                <evento>Esa misma noche, Sauron fue visto hablando en voz baja con un individuo
+                    misterioso en un café cerca de la empresa Moebiüs, horas antes del incidente.
+                    Hay indicios que ese individuo era Eduardo.</evento>
+                <evento>Eduardo ha estado accediendo a áreas restringidas del sistema de seguridad
+                    de la empresa, incluso después de horas laborales, levantando sospechas sobre
+                    sus verdaderas intenciones.</evento>
+                <evento>Sauron ha publicado en foros de hackers un mensaje enigmático sobre un "gran
+                    golpe" que cambiará el juego, justo antes del robo de información confidencial.</evento>
+            </descripcion>
+        </pista>
+        <pista titulo="Lazos peligrosos">
+            <personajes>
+                <personaje>CM08</personaje>
+                <personaje>JL12</personaje>
+            </personajes>
+            <descripcion>
+                <evento>Carolina fue vista saliendo del edificio de Moebiüs en la noche del robo,
+                    llevando una bolsa que parecía contener equipo electrónico.</evento>
+                <evento>Esa misma tarde, Javier fue identificado en las grabaciones de seguridad
+                    manipulando cámaras en las áreas cercanas a donde se almacenaba información
+                    confidencial, lo que sugiere que pudo haber tenido acceso privilegiado al
+                    sistema de vigilancia.</evento>
+                <evento>Carolina y Javier fueron vistos discutiendo acaloradamente en un restaurante
+                    local poco antes del robo, levantando preguntas sobre la naturaleza de su
+                    relación.</evento>
+                <evento>Javier ha modificado recientemente sus perfiles en redes sociales para
+                    eliminar cualquier rastro de conexión con la empresa Moebiüs.</evento>
+            </descripcion>
+        </pista>
+        <pista titulo="Misterios en la red">
+            <personajes>
+                <personaje>LP09</personaje>
+                <personaje>JS11</personaje>
+            </personajes>
+            <descripcion>
+                <evento>Lucas ha estado realizando búsquedas en línea sobre métodos de hacking
+                    avanzados y sistemas de seguridad de alto nivel, según los registros de su
+                    historial de navegación. Además se ha visto vinculado con Sauron en una serie de
+                    ataques cibernéticos contra empresas competidoras en el pasado.</evento>
+                <evento>Lucas ha mencionado en conversaciones privadas con amigos su interés en
+                    obtener acceso a sistemas informáticos de empresas importantes, incluso si eso
+                    significara romper algunas reglas.</evento>
+                <evento>Lucas y Sauron ha sido vistos frecuentando lugares de reunión de hackers y
+                    discutiendo sobre tácticas de infiltración justo antes del robo.</evento>
+            </descripcion>
+        </pista>
+    </pistas>
+
+</investigacion>

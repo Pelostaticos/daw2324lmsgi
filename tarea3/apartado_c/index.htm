@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilos.css">
+    <title>Enlazado de canales RSS y ATOM a una web</title>
+    <!-- Aquí pongo los enalces identificativos de los canales RSS y ATOM -->
+    <link rel="alternate" href="feed/canal.rss" type="application/rss+xml" title="RSS">
+    <link rel="alternate" href="feed/canal.atom" type="application/atom+xml" title="Atom">    
+</head>
+<body>
+    <div class="contenedor">
+        <header>
+            <img class="logotipo" src="images/logo.png" />
+            <h1>El Saetero</h1>
+            <h2>El canal andaluz de noticias de semana santa con saetas</h2>
+        </header>
+        <main>
+            <a href="https://islapasion.net/">
+                <img class="llamador" src="images/llamador.jpg" />
+            </a>
+            <audio autoplay loop>
+                <source src="audio/saeta.opus" type="audio/ogg">
+            </audio>
+        </main>
+        <footer>
+           <div class="producido">
+                <h5>Sergio García Butrón &#169</h5>
+            </div> 
+            <div class="canales">
+                <!-- Aqui pongo los iconos de enlaces a los ficheros del canal RSS y ATOM -->
+                <a href="feed/canal.rss" type="application/rss+xml"><img src="images/valid-rss.png" alt="Enlace RSS" /></a>
+                <a href="feed/canal.atom" type="application/atom+xml"><img src="images/valid-atom.png" alt="Enlace ATOM" /></a>
+            </div>
+        </footer>        
+    </div>
+</body>
+</html>

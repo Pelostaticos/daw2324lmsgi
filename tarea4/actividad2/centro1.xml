@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE centro SYSTEM "centros.dtd">
+
+<!--Documento XML con los datos de ejemplo del enunciado.
+Queremos generar una serie de documentos que recojan la información de distintos centros educativos, así como de su profesorado y equipo directivo, de forma que todos tengan una estructura común usando el metalenguaje xml. 
+
+Para ello queremos diseñar la estructura del xml, así como unas reglas para el lenguaje. Los archivos xml deben de tener una estructura común para cada centro y recogerá la siguiente información:
+
+    Centro educativo:
+        El elemento raíz se denomina centro, y recoge información sobre el propio centro educativo. Contendrá un atributo denominado cod, obligatorio, con el código del centro (compuesto de una letra mayúsculas C y ocho números). 
+        El elemento centro tendrá tres elementos: datos_centro, departamentos y equipo_directivo (y en ese orden).  Datos_centro contendrá los datos del centro educativo (nombre del centro, dirección, localidad, provincia, teléfono e email). 
+        Departamentos, contendrá los distintos departamento del centro educativo. 
+        Equipo_directivo es opcional y en el caso de aparecer contendrá información de los profesores que componen el equipo directivo del centro.
+    Datos_centro:
+        El elemento datos_centro, contendrá los siguientes elementos en este orden: nombre_centro, direccion, localidad, provincia, telefono e email. 
+        Todos los elementos incluidos serán obligatorios y se mostrarán en ese orden.
+    Departamentos:
+        El elemento departamentos contendrá todos los departamentos del centro, al menos debe haber un departamento en cada centro.
+        Para cada departamento, se almacenará el nombre del departamento (nombre_departamento), así como los miembros que lo componen. Cada departamento estará formado por al menos un profesor.
+        Cada profesor: 
+            contendrá un código almacenado en forma de atributo, formado por una letra y dos números que será único (no pueden existir más de un profesor en el centro con el mismo código).
+            incluirá en forma de elementos y en el siguiente orden:
+                el nombre del profesor,
+                sus apellidos,
+                su dni o nrp (aparecerá obligatóriamente uno de los dos, el dni está formado por 8 números y una letra mayúscula, y el nrp "número de registro personal" está formado por 10 números, una letra que puede ser A o S y después cuatro números),
+                y finalmente el email y/o teléfono (hay que tener en cuenta que tanto el email como el teléfono son opcionales y pueden aparecer en cualquier orden, es decir, puede aparecer sólo el email, sólo el teléfono, ambos en cualquier orden, o incluso no aparecer ninguno de ellos).
+                opcionalmente puede incluir el elemento vacío jefe_departamento, para indicar que dicho profesor es el jefe del respectivo departamento.
+    Equipo_directivo:
+        el elemento equipo_directivo es opcional, pero si aparece contendrá al menos un elemento directivo,
+        cada elemento directivo tendrá un atributo requerido que indicará el cargo de dicho directivo. Los cargos posibles son "jefe_estudios", "director", "subdirector", "secretario", "jefe_estudios_adjunto".
+        Cada elemento directivo incluirá en forma de texto el código de uno de los profesores del centro (no el nombre y apellidos del profesor, sólo el código).
+
+Como ejemplo de centro se proporciona la siguiente información:
+
+    Centro C41812145
+    - IES Alan Turing
+    - C/. Microchip п.100101
+    - Alcalá de Guadaira (Sevilla)
+    - tfn: 954478745
+    - email: direccion@alanturing.edu
+
+    Departamentos
+    - Matemáticas
+    - Profesor (M01): Ana García Menéndez - nrp: 3458745835A0590-ana.garcia@alanturing.edu - 688747145
+    - Profesor (M02): Carlos Fernández Ruiz - nrp: 2231231102S0590-987654321 
+    - Profesor (M03, Jefe de Departamento): Marta Ruiz López - dni: 58878724N - marta.ruiz@alanturing.edu
+
+    - Inglés
+    - Profesor (I01), Jefe de Departamento): Juan María Pérez - dni: 47065511J - john.smith@alanturing.edu - 695587412
+    - Profesor (I02): Emilia Nieto Rodriguez - nrp: 8765432168A0590 - 655478124 
+    - Profesor (I03): David Llorente Pérez - dni: 31988765C - david.williams@alanturing.edu
+    - Profesor (I04): Linda Miller - dni: 27269427Y
+
+    - Lengua
+    - Profesor (L01): María González Sanjuan - nrp: 3312332102A0590 - maria.gonzalez@alanturing.edu - 966587415
+    - Profesor (L02): Ricardo Ruiz Espartano - dni: 24559133D-914445874
+    - Profesor (L03): Isabel Martínez Jiménez - dni: 90202750Q - isabel.martinez@alanturing.edu
+    - Profesor (L04, Jefe de Departamento): Javier López Santos - dni: 67179167P - javier.lopez@alanturing.edu
+
+    - Física y Química
+    - Profesor (F01): Luis Rodríguez Marcos - nrp: 2353864324S0590 - luis.rodriguez@alanturing.edu - 632547845 
+    - Profesor (F02, Jefe de Departamento): Elena Gómez Sierra - dni: 66618345H - elena.gomez@alanturing.edu
+
+    - Educación Física
+    - Profesor (E01): Luis Benítez Salas - nrp: 4122312346S0590 - luis.benitez@alanturing.edu - 699898748 
+    - Profesor (E02, Jefe de Departamento): Manuel Sánchez Muelle - dni: 70159531D - manuel.sanchez@alanturing.edu
+
+    Equipo Directivo
+    - Jefe de Estudios: Luis Rodríguez Marcos (F01)
+    - Director: María González Sanjuan (L01) 
+    - Jefe de Estudios Adjunto: Linda Miller (104)
+    - Secretario: Ana García Menéndez (M01)
+    - Subdirector: Ricardo Ruiz Espartano (L02)
+
+-->
+
+<!--Ejemplar XML: Elemento raíz del documento
+    + El atributo "cod" del elemento "centro" es obligatorio
+    + Está compuesto de una letra mayúsculas C y ocho números
+-->
+
+<centro cod="C41812145">
+    <datos_centro>
+        <!--Todos los elementos terminales son obligatorios y en ese orden-->
+        <nombre_centro>IES Alan Turing</nombre_centro>
+        <direccion>C/. Microchip n.100101</direccion>
+        <localidad>Alcalá de Guadaira</localidad>
+        <provincia>Sevilla</provincia>
+        <telefono>954478745</telefono>
+        <email>direccion@alanturing.edu</email>
+    </datos_centro>
+    <departamentos>
+        <!--Como mínimo debe aparecer un departamento por cada centro-->
+        <departamento>
+            <!--elemento terminal "nombre_departamento" para almacenar el nombre del departamento del centro
+                + No especifica nada respecto al orden en que debe aparecen sus elementos
+                + Por lógica, he decidio que primero sea el noombre del departamento y luego sus miembros.
+            -->
+            <nombre_departamento>Matemáticas</nombre_departamento>
+            <!--agrego un elemento contenedor "miembros" que contiene a cada profesor que forma
+            del correspondiente departamento del centro educativo. Como por departamento debe 
+            existir un profesor este elemento de aparecer al menos una vez. Para seguir la
+            descripción del enunciado, pero podría omitirse y poner directamente un profesor tras otro
+            después del nombre del departamento.-->
+            <miembros>
+                <!--elemento profesor que contiene todos los elementos terminales que lo identifican
+                    + El departamento como mínimo tiene un profesor.
+                    + Profesor tiene un atributo identificado con su código compuesto por una letra y dos números                    
+                -->
+                <profesor codProfesor="M01">
+                    <nombre>Ana</nombre>
+                    <apellidos>García Menéndez</apellidos>
+                    <!-- Elementos dni o nrp:
+                        + Obligatoriamente deben aparecer uno de los dos
+                        + dni: 8 digitos numéricos + 1 letra mayúscula
+                        + nrp: 10 digitos numéricos + 1 letra "A" o "S" + 4 número (numero de registro de personal)
+                        NOTA: Los DTD no permiten crear faceta sólo tipo ID/IDREF/NMTOKEN
+                    -->
+                    <!--<dni></dni>-->
+                    <nrp>3458748525A0590</nrp>
+                    <!--Aquí diferencio la etiqueta del email del profesor a la de centro
+                    porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                    es opcional puediendose reemplazar por el teléfono del profesor, no
+                    aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->
+                    <email>ana.garcia@alanturing.edu</email>
+                    <!--Diferencio la etiqueta del teléfono del profesor a la del centro
+                    porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                    es opcional puediendose reemplazar por el email del profesor, no
+                    aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->                
+                    <telefono>688747145</telefono>
+                    <!--elemento vacío para indicar que el profesor es "Jefe del departamento"-->
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="M02">
+                    <nombre>Carlos</nombre>
+                    <apellidos>Fernández ruiz</apellidos>
+                    <!-- Elementos dni o nrp:
+                        + Obligatoriamente deben aparecer uno de los dos
+                        + dni: 8 digitos numéricos + 1 letra mayúscula
+                        + nrp: 10 digitos numéricos + 1 letra "A" o "S" + 4 número (numero de registro de personal)
+                    -->
+                    <!--<dni></dni>-->
+                    <nrp>2231231102S0590</nrp>
+                    <!--Aquí diferencio la etiqueta del email del profesor a la de centro
+                    porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                    es opcional puediendose reemplazar por el teléfono del profesor, no
+                    aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->
+                    <!--<email></email>-->
+                    <!--Diferencio la etiqueta del teléfono del profesor a la del centro
+                    porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                    es opcional puediendose reemplazar por el email del profesor, no
+                    aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->                
+                    <telefono>987654321</telefono>
+                    <!--elemento vacío para indicar que el profesor es "Jefe del departamento"-->
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="M03">
+                        <nombre>Marta</nombre>
+                        <apellidos>Ruiz López</apellidos>
+                        <!-- Elementos dni o nrp:
+                            + Obligatoriamente deben aparecer uno de los dos
+                            + dni: 8 digitos numéricos + 1 letra mayúscula
+                            + nrp: 10 digitos numéricos + 1 letra "A" o "S" + 4 número (numero de registro de personal)
+                        -->
+                        <dni>58878724N</dni>
+                        <!--<nrp></nrp>-->
+                        <!--Aquí diferencio la etiqueta del email del profesor a la de centro
+                        porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                        es opcional puediendose reemplazar por el teléfono del profesor, no
+                        aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->
+                        <email>marta.ruiz@alanturing.edu</email>
+                        <!--Diferencio la etiqueta del teléfono del profesor a la del centro
+                        porque tienen diferente requisitos. En el centro es obligatoria y aquí
+                        es opcional puediendose reemplazar por el email del profesor, no
+                        aparecer ni siquiera o incluso no importa el orden en el que aparezca. -->                
+                        <!--<telefono></telefono>-->
+                        <!--elemento vacío para indicar que el profesor es "Jefe del departamento"-->
+                        <jefe_departamento/>
+                </profesor>                              
+            </miembros>
+        </departamento>
+        <!--A los siguientes elementos "departamento" le he quitado los comentarios del primero para hacerlo más legible-->
+        <departamento>
+            <nombre_departamento>Inglés</nombre_departamento>
+            <miembros>
+                <profesor codProfesor="I01">
+                    <nombre>Juan</nombre>
+                    <apellidos>María Pérez</apellidos>
+                    <dni>47065511J</dni>
+                    <!--<nrp></nrp>-->
+                    <email>john.smith@alantruring.edu</email>
+                    <telefono>695587412</telefono>
+                    <jefe_departamento/>
+                </profesor>
+                <profesor codProfesor="I02">
+                    <nombre>Emilia</nombre>
+                    <apellidos>Nieto Espartano</apellidos>
+                    <!--<dni></dni>-->
+                    <nrp>8765432168A0590</nrp>
+                    <!--<email></email>-->
+                    <telefono>655478124</telefono>
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="I03">
+                    <nombre>David</nombre>
+                    <apellidos>Llorente Pérez</apellidos>
+                    <dni>31988765C</dni>
+                    <!--<nrp></nrp>-->
+                    <email>david.williams@alanturing.edu</email>
+                    <!--<telefono></telefono>-->
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="I04">
+                    <nombre>Linda</nombre>
+                    <apellidos>Miller</apellidos>
+                    <dni>27269427Y</dni>
+                    <!--<nrp></nrp>-->
+                    <!--<email></email>-->
+                    <!--<telefono></telefono>-->
+                    <!--<jefe_departamento/>-->
+                </profesor>                                                
+            </miembros>
+        </departamento>        
+        <departamento>
+            <nombre_departamento>Lengua</nombre_departamento>
+            <miembros>
+                <profesor codProfesor="L01">
+                    <nombre>María</nombre>
+                    <apellidos>Gonzáles Sanjuan</apellidos>
+                    <!--<dni></dni>-->
+                    <nrp>3312332102A0590</nrp>
+                    <email>maria.gonzalez@alanturing.edu</email>
+                    <telefono>966587415</telefono>
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="L02">
+                    <nombre>Ricardo</nombre>
+                    <apellidos>Ruiz Espartano</apellidos>
+                    <dni>24559133D</dni>
+                    <!--<nrp></nrp>-->
+                    <!--<email></email>-->
+                    <telefono>914445874</telefono>
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="L03">
+                    <nombre>Isabel</nombre>
+                    <apellidos>Martínez Jiménez</apellidos>
+                    <dni>90202750Q</dni>
+                    <!--<nrp></nrp>-->
+                    <email>isabel.martinez@alanturing.edu</email>
+                    <!--<telefono></telefono>-->
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="L04">
+                    <nombre>Javier</nombre>
+                    <apellidos>López Santos</apellidos>
+                    <dni>61179167P</dni>
+                    <!--<nrp></nrp>-->
+                    <email>javier.lopez@alanturing.edu</email>
+                    <!--<telefono></telefono>-->
+                    <jefe_departamento/>
+                </profesor>                                                
+            </miembros>
+        </departamento>    
+        <departamento>
+            <nombre_departamento>Física y Química</nombre_departamento>
+            <miembros>
+                <profesor codProfesor="F01">
+                    <nombre>Luis</nombre>
+                    <apellidos>Rodríguez Marcos</apellidos>
+                    <!--<dni></dni>-->
+                    <nrp>2353864324S0590</nrp>
+                    <email>luis.rodriguez@alanturing.edu</email>
+                    <telefono>632547845</telefono>
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="F02">
+                    <nombre>Elena</nombre>
+                    <apellidos>Gómez Sierra</apellidos>
+                    <dni>66618345H</dni>
+                    <!--<nrp></nrp>-->
+                    <email>elena.gomez@alanturing.edu</email>
+                    <!--<telefono></telefono>-->
+                    <jefe_departamento/>
+                </profesor>                                              
+            </miembros>
+        </departamento>    
+        <departamento>
+            <nombre_departamento>Educación Física</nombre_departamento>
+            <miembros>
+                <profesor codProfesor="E01">
+                    <nombre>Luis</nombre>
+                    <apellidos>Benitez Salas</apellidos>
+                    <!--<dni></dni>-->
+                    <nrp>4122312346S0590</nrp>
+                    <email>luis.benitez@alanturing.edu</email>
+                    <telefono>699898748</telefono>
+                    <!--<jefe_departamento/>-->
+                </profesor>
+                <profesor codProfesor="E02">
+                    <nombre>Manuel</nombre>
+                    <apellidos>Sánchez Muelle</apellidos>
+                    <dni>70159531D</dni>
+                    <!--<nrp></nrp>-->
+                    <email>manuel.sanchez@alanturing.edu</email>
+                    <!--<telefono></telefono>-->
+                    <jefe_departamento/>
+                </profesor>                                               
+            </miembros>
+        </departamento>            
+    </departamentos>
+    <equipo_directivo>
+        <!-- Elemento directivo: ¿Qué requisitos debe cumplir?
+            + Opcional, si aparece debe contener mínimo un directivo
+            + incluye en forma de texto el código de uno de los profesores del centro.
+            + atributo cargo requerido y de tipo enumerado: "jefe_estudios", "director", "subdirector", "secretario", "jefe_estudios_adjunto".
+        -->
+        <directivo cargo="jefe_estudios">F01</directivo>
+        <directivo cargo="director">L01</directivo>
+        <directivo cargo="jefe_estudios_adjunto">I04</directivo>
+        <directivo cargo="secretario">M01</directivo>
+        <directivo cargo="subdirector">L02</directivo>
+    </equipo_directivo>
+</centro>
+

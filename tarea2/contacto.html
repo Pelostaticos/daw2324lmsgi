@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- RAIZ DEL DOCUMENTO HTML -->
+<html lang="es">
+    <!-- CABECERA DOCUMENTO HTML -->
+    <head>
+        <!-- DEFINICION DEL CONJUNTO DE CARACTERES DEL DUCMENTO HTMLK -->
+        <meta charset="UTF-8">
+        <!-- DEFINICION DE LAS DIMENSIONES DE LA PANTALLA -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- VINCULACION DE LA HOJA DE ESTILOS -->
+        <link rel="stylesheet" href="css/estilos.css">
+        <!-- TITULO DE LA VENTANA DEL NAVEGADOR -->
+        <title>Prototipo</title>
+    </head>
+    <!-- CUERPO DEL DOCUMENTO HTML -->
+    <body>
+        <!-- CAPA CONTENEDORA GENERAL -->
+        <div class="contenedor">
+            <!-- CAPA CONTENEDORA DEL MENÚ DE NAVEGACION -->
+            <div class="superior white">
+                <!-- ZONA DE TITULO WEB -->
+                <div class="titulo">
+                    <!-- EL LOGOTIPO DE LA WEB -->
+                    <img src="images/logotipo1.png" alt="logotipo">
+                    <!-- EL TITULO DE LA WEB -->
+                    <h1><span class="destacado">Soft</span>web</h1>  
+                </div>
+                <!-- MENU DE NAVEGACION -->
+                <nav class="menu">
+                    <!-- LISTA ELEMENTOS DEL MENÚ -->
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="info.html">Proyectos</a></li>
+                        <li><a href="contacto.html">Contactos</a></li>
+                        <li><a href="https://educacionadistancia.juntadeandalucia.es/formacionprofesional/">Otros</a></li>
+                    </ul>
+                    <!-- CAMPO DE BUSQUEDA WEB -->
+                    <input type="search" name="buscar" id="buscar" placeholder="Busca en la web">
+                </nav>
+            </div>
+            <!-- ZONA DE CABECERA DE LA PÁGINA -->
+            <header class="cabecera gray1">
+                <h1><span class="destacado">Soft</span>web</h1>
+                <h3>Desarrollo web integral</h3>
+                <h5>Hacemos realidad tu aplicación web de forma fácil y divertida</h5>
+            </header>
+            <!-- ZONAS DE CONTENIDOS DE LA PÁGINA -->
+            <div class="contenido">
+                <!-- ZONA DE CONTENIDOS PRINCIPALES -->
+                <main class="principal white">
+                    <form class="contacto" action="inicio.html" method="get">
+                        <label>Nombre:</label>
+                        <input name="nombre" id="nommbre" type="text">
+                        <label>Email:</label>
+                        <input name="email" id="email" type="email">
+                        <label>Asunto:</label>
+                        <select name="asunto" id="asunto">
+                            <option>Consulta</option>
+                            <option>Sugerencia</option>
+                            <option>Problema</option>
+                        </select>
+                        <label>Mensaje</label>
+                        <textarea name="mensaje" id="mensaje" rows="2" cols="50"></textarea>
+                        <button name="enviar" id="enviar" type="submit">Enviar</button>
+                    </form>
+                </main>
+                <!-- ZONA DE CONTENIDOS SECUNDARIOS -->
+                <section class="seccion gray0">
+                    <h3>Softweb</h3>
+                    <p>En Softweb, nos enfocamos en la excelencia técnica y la creatividad para cumplir con necesidades de nuestros clientes</p>
+                    <p>No lo piense más, contactanos ahora mismo desde el formulario</p>                    
+                </section>    
+            </div>
+            <!-- ZONA DE PIE DE PÁGINA -->
+            <footer class="piepagina white">
+                <h6>Web creada por Sergio García Butrón - 2024&#169;</h6>
+            </footer>
+        </div>
+    </body>
+</html>

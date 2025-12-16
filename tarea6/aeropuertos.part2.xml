@@ -1,0 +1,3342 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<aeropuertos>
+    <aeropuerto codigo="ERT">
+        <nombre>Erdenet Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Erdenet</municipio>
+        <tasas moneda="Dollar">3525</tasas>
+        <cuenta_bancaria>ES67 2400 8968 3024 0816 2151</cuenta_bancaria>
+        <contacto>ssandercock8o@un.org</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MPY">
+        <nombre>Maripasoula Airport</nombre>
+        <pais>Croatia</pais>
+        <municipio>Maripasoula</municipio>
+        <tasas moneda="Kuna">2808</tasas>
+        <cuenta_bancaria>CH62 7657 23FL 5IT1 QBHK F</cuenta_bancaria>
+        <contacto>nsydall8p@etsy.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CQM">
+        <nombre>Ciudad Real Central Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Ciudad Real</municipio>
+        <tasas moneda="Rupiah">2491</tasas>
+        <cuenta_bancaria>FI30 4118 8131 8983 22</cuenta_bancaria>
+        <contacto>apetrasch8q@chron.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OLF">
+        <nombre>L M Clayton Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Wolf Point</municipio>
+        <tasas moneda="Zloty">1754</tasas>
+        <cuenta_bancaria>AD07 0339 1589 QRHG AQGA GVKM</cuenta_bancaria>
+        <contacto>ebrimilcome8r@instagram.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MQP">
+        <nombre>Kruger Mpumalanga International Airport</nombre>
+        <pais>Nigeria</pais>
+        <municipio>Mpumalanga</municipio>
+        <tasas moneda="Naira">2876</tasas>
+        <cuenta_bancaria>EE59 0441 6277 0920 6670</cuenta_bancaria>
+        <contacto>bwitcherley8s@google.it</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RBR">
+        <nombre>Plácido de Castro Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Rio Branco</municipio>
+        <tasas moneda="Rupiah">3178</tasas>
+        <cuenta_bancaria>SA76 96QQ L8H1 BSMO AJMP QTPK</cuenta_bancaria>
+        <contacto>rchinge8t@pbs.org</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CII">
+        <nombre>Çıldır Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Aydın</municipio>
+        <tasas moneda="Rupiah">2052</tasas>
+        <cuenta_bancaria>CH34 1096 6PIP VTGW BP15 N</cuenta_bancaria>
+        <contacto>ctwede8u@google.com.br</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LAB">
+        <nombre>Lab Lab Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Lab Lab Mission</municipio>
+        <tasas moneda="Peso">1519</tasas>
+        <cuenta_bancaria>GB30 WWMF 4211 2223 5237 12</cuenta_bancaria>
+        <contacto>abalasini8v@forbes.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SJL">
+        <nombre>São Gabriel da Cachoeira Airport</nombre>
+        <pais>Syria</pais>
+        <municipio>São Gabriel Da Cachoeira</municipio>
+        <tasas moneda="Pound">4178</tasas>
+        <cuenta_bancaria>IT12 I518 2827 556U XOWU VNZI GSZ</cuenta_bancaria>
+        <contacto>rjacquet8w@desdev.cn</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CBF">
+        <nombre>Council Bluffs Municipal Airport</nombre>
+        <pais>Vietnam</pais>
+        <municipio>Council Bluffs</municipio>
+        <tasas moneda="Dong">4015</tasas>
+        <cuenta_bancaria>BE18 2319 2300 9389</cuenta_bancaria>
+        <contacto>gsandsallan8x@google.com.br</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KTE">
+        <nombre>Kerteh Airport</nombre>
+        <pais>China</pais>
+        <municipio>Kerteh</municipio>
+        <tasas moneda="Yuan Renminbi">3623</tasas>
+        <cuenta_bancaria>FR80 1135 4313 92Z8 XZLU D4QI X03</cuenta_bancaria>
+        <contacto>imandel8y@amazon.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CCU">
+        <nombre>Netaji Subhash Chandra Bose International Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Kolkata</municipio>
+        <tasas moneda="Baht">3576</tasas>
+        <cuenta_bancaria>BG23 GJKE 4606 07YN T8BN DE</cuenta_bancaria>
+        <contacto>fjehu8z@sun.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TSK">
+        <nombre>Taskul Airport</nombre>
+        <pais>Chile</pais>
+        <municipio>Taskul</municipio>
+        <tasas moneda="Peso">1702</tasas>
+        <cuenta_bancaria>GR91 2340 5742 CWWR QMCP YVAH UBY</cuenta_bancaria>
+        <contacto>mdadge90@ihg.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FSI">
+        <nombre>Henry Post Army Air Field (Fort Sill)</nombre>
+        <pais>Morocco</pais>
+        <municipio>Fort Sill</municipio>
+        <tasas moneda="Dirham">4152</tasas>
+        <cuenta_bancaria>FR65 3821 9426 65DY 9IH1 SXJ6 V77</cuenta_bancaria>
+        <contacto>omoynham91@google.com.au</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NQA">
+        <nombre>Millington-Memphis Airport</nombre>
+        <pais>Uganda</pais>
+        <municipio>Millington</municipio>
+        <tasas moneda="Shilling">1463</tasas>
+        <cuenta_bancaria>BG19 AXPT 5999 80PT D5HJ IK</cuenta_bancaria>
+        <contacto>oneljes92@mozilla.org</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GLD">
+        <nombre>Renner Field-Goodland Municipal Airport</nombre>
+        <pais>Nicaragua</pais>
+        <municipio>Goodland</municipio>
+        <tasas moneda="Cordoba">3699</tasas>
+        <cuenta_bancaria>GT44 SBGJ KGV3 FT32 6ZE5 FYQZ MFBR</cuenta_bancaria>
+        <contacto>dheaps93@ox.ac.uk</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GSA">
+        <nombre>Long Pasia Airport</nombre>
+        <pais>Cameroon</pais>
+        <municipio>Long Miau</municipio>
+        <tasas moneda="Franc">3512</tasas>
+        <cuenta_bancaria>ME50 0875 5464 4315 2114 63</cuenta_bancaria>
+        <contacto>rclethro94@mediafire.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DNZ">
+        <nombre>Çardak Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Denizli</municipio>
+        <tasas moneda="Baht">4438</tasas>
+        <cuenta_bancaria>RO45 AVYG AVDC LMAP ALJG AHYM</cuenta_bancaria>
+        <contacto>troux95@illinois.edu</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BFJ">
+        <nombre>Bijie Feixiong Airport</nombre>
+        <pais>China</pais>
+        <municipio>Bijie</municipio>
+        <tasas moneda="Yuan Renminbi">1445</tasas>
+        <cuenta_bancaria>ES17 0543 6711 3769 3819 5535</cuenta_bancaria>
+        <contacto>eeliassen96@php.net</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MSN">
+        <nombre>Dane County Regional Truax Field</nombre>
+        <pais>Poland</pais>
+        <municipio>Madison</municipio>
+        <tasas moneda="Zloty">4425</tasas>
+        <cuenta_bancaria>PS66 HTIT U5AC 6NYH BNWO PYXN 8DCM F</cuenta_bancaria>
+        <contacto>abellerby97@icq.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HGO">
+        <nombre>Korhogo Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Korhogo</municipio>
+        <tasas moneda="Peso">4577</tasas>
+        <cuenta_bancaria>FR52 0460 9416 36YZ USH2 Q15N 821</cuenta_bancaria>
+        <contacto>lbetjes98@ustream.tv</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TCU">
+        <nombre>Thaba Nchu Tar Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Homeward</municipio>
+        <tasas moneda="Peso">2517</tasas>
+        <cuenta_bancaria>KZ57 0276 S8DI ETRX NG4R</cuenta_bancaria>
+        <contacto>agiovanitti99@barnesandnoble.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DEA">
+        <nombre>Dera Ghazi Khan Airport</nombre>
+        <pais>Sweden</pais>
+        <municipio>Dera Ghazi Khan</municipio>
+        <tasas moneda="Krona">3411</tasas>
+        <cuenta_bancaria>CH12 9853 7INM WMNA H1ES T</cuenta_bancaria>
+        <contacto>atoovey9a@oracle.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BAE">
+        <nombre>Barcelonnette - Saint-Pons Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Le Castellet</municipio>
+        <tasas moneda="Real">4315</tasas>
+        <cuenta_bancaria>TN64 2119 3656 1521 9362 9348</cuenta_bancaria>
+        <contacto>mvuitton9b@wikimedia.org</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SKJ">
+        <nombre>Sitkinak Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Sitkinak Island</municipio>
+        <tasas moneda="Ruble">2970</tasas>
+        <cuenta_bancaria>GI08 EQEW MXGQ CSJA GRZI 39V</cuenta_bancaria>
+        <contacto>bpomeroy9c@indiatimes.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YGO">
+        <nombre>Gods Lake Narrows Airport</nombre>
+        <pais>China</pais>
+        <municipio>Gods Lake Narrows</municipio>
+        <tasas moneda="Yuan Renminbi">4870</tasas>
+        <cuenta_bancaria>BH06 BDKQ VO9F 6KNI MP2Q IQ</cuenta_bancaria>
+        <contacto>hchampness9d@aol.com</contacto>
+        <anho_construccion>1958</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LNE">
+        <nombre>Lonorore Airport</nombre>
+        <pais>France</pais>
+        <municipio>Lonorore</municipio>
+        <tasas moneda="Euro">3657</tasas>
+        <cuenta_bancaria>GI02 NBPT C2H0 ZCGR SZC4 YS9</cuenta_bancaria>
+        <contacto>ccasone9e@wired.com</contacto>
+        <anho_construccion>1988</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RIY">
+        <nombre>Mukalla International Airport</nombre>
+        <pais>Germany</pais>
+        <municipio>Riyan</municipio>
+        <tasas moneda="Euro">2085</tasas>
+        <cuenta_bancaria>HU54 3707 4593 9229 8920 6310 4384</cuenta_bancaria>
+        <contacto>vlensch9f@nih.gov</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MYF">
+        <nombre>Montgomery-Gibbs Executive Airport</nombre>
+        <pais>China</pais>
+        <municipio>San Diego</municipio>
+        <tasas moneda="Yuan Renminbi">1355</tasas>
+        <cuenta_bancaria>FR52 0522 5487 79N0 MS4M FJVT 960</cuenta_bancaria>
+        <contacto>cdecarteret9g@salon.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BRQ">
+        <nombre>Brno-Tuřany Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Brno</municipio>
+        <tasas moneda="Euro">4902</tasas>
+        <cuenta_bancaria>BG18 AWYD 1386 97JH XFMM IZ</cuenta_bancaria>
+        <contacto>ymegany9h@wikispaces.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KAI">
+        <nombre>Kaieteur International Airport</nombre>
+        <pais>China</pais>
+        <municipio>Kaieteur Falls</municipio>
+        <tasas moneda="Yuan Renminbi">1217</tasas>
+        <cuenta_bancaria>EE73 0569 4260 6690 9906</cuenta_bancaria>
+        <contacto>fwoan9i@twitter.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HRA">
+        <nombre>Mansehra Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Mansehra</municipio>
+        <tasas moneda="Rupiah">3570</tasas>
+        <cuenta_bancaria>VG16 LWZM 8007 9792 7688 4404</cuenta_bancaria>
+        <contacto>dhast9j@japanpost.jp</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BPT">
+        <nombre>Southeast Texas Regional Airport</nombre>
+        <pais>Laos</pais>
+        <municipio>Beaumont/Port Arthur</municipio>
+        <tasas moneda="Kip">2275</tasas>
+        <cuenta_bancaria>BE62 2833 5080 3053</cuenta_bancaria>
+        <contacto>olabarre9k@hud.gov</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LBB">
+        <nombre>Lubbock Preston Smith International Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Lubbock</municipio>
+        <tasas moneda="Tugrik">4696</tasas>
+        <cuenta_bancaria>PS27 MDPX G5TO ETGQ ICBU W1Q1 WASY G</cuenta_bancaria>
+        <contacto>lstopforth9l@twitpic.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MQN">
+        <nombre>Mo i Rana Airport, Røssvoll</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Mo i Rana</municipio>
+        <tasas moneda="Rupiah">3719</tasas>
+        <cuenta_bancaria>AD09 4185 5610 BL5Z AELL 3O4W</cuenta_bancaria>
+        <contacto>iaucutt9m@google.es</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TFN">
+        <nombre>Tenerife Norte Airport</nombre>
+        <pais>Nigeria</pais>
+        <municipio>Tenerife Island</municipio>
+        <tasas moneda="Naira">4081</tasas>
+        <cuenta_bancaria>DE59 3861 9116 0437 0919 06</cuenta_bancaria>
+        <contacto>nwynter9n@webmd.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GRO">
+        <nombre>Girona Airport</nombre>
+        <pais>China</pais>
+        <municipio>Girona</municipio>
+        <tasas moneda="Yuan Renminbi">1816</tasas>
+        <cuenta_bancaria>PT39 3300 3922 6585 7806 0542 7</cuenta_bancaria>
+        <contacto>etonkinson9o@tripadvisor.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MZW">
+        <nombre>Mecheria Airport</nombre>
+        <pais>Tanzania</pais>
+        <municipio>Mecheria</municipio>
+        <tasas moneda="Shilling">2535</tasas>
+        <cuenta_bancaria>HR44 3230 3110 4015 3770 9</cuenta_bancaria>
+        <contacto>ilyddon9p@quantcast.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NKG">
+        <nombre>Nanjing Lukou Airport</nombre>
+        <pais>Latvia</pais>
+        <municipio>Nanjing</municipio>
+        <tasas moneda="Euro">3466</tasas>
+        <cuenta_bancaria>MU59 PTDP 8945 7635 1321 4205 140W BS</cuenta_bancaria>
+        <contacto>baberkirder9q@nasa.gov</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SOB">
+        <nombre>Sármellék International Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Sármellék</municipio>
+        <tasas moneda="Ruble">3396</tasas>
+        <cuenta_bancaria>AZ18 KXVL V8SR BKLX S9ZS UUUG HBKF</cuenta_bancaria>
+        <contacto>zpairpoint9r@tuttocitta.it</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SCT">
+        <nombre>Socotra International Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Socotra Islands</municipio>
+        <tasas moneda="Peso">4691</tasas>
+        <cuenta_bancaria>FR47 0371 5691 80IU 2BV0 YQIG Y60</cuenta_bancaria>
+        <contacto>lfairbrass9s@plala.or.jp</contacto>
+        <anho_construccion>1990</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WLL">
+        <nombre>Wollogorang Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">1761</tasas>
+        <cuenta_bancaria>KW15 PGDD JQAF Z8FK O7C3 GZ7T ILZ1 PV</cuenta_bancaria>
+        <contacto>htolomelli9t@thetimes.co.uk</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OMD">
+        <nombre>Oranjemund Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Oranjemund</municipio>
+        <tasas moneda="Euro">2673</tasas>
+        <cuenta_bancaria>SM78 Y087 8927 0129 JMAB QM1I JSZ</cuenta_bancaria>
+        <contacto>egrassick9u@nifty.com</contacto>
+        <anho_construccion>1987</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ARK">
+        <nombre>Arusha Airport</nombre>
+        <pais>Colombia</pais>
+        <municipio>Arusha</municipio>
+        <tasas moneda="Peso">2862</tasas>
+        <cuenta_bancaria>DK15 4503 6772 4813 97</cuenta_bancaria>
+        <contacto>ckester9v@scientificamerican.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ZUH">
+        <nombre>Zhuhai Jinwan Airport</nombre>
+        <pais>China</pais>
+        <municipio>Zhuhai</municipio>
+        <tasas moneda="Yuan Renminbi">3581</tasas>
+        <cuenta_bancaria>FR95 7417 3380 07LM GXXS 1UZK W78</cuenta_bancaria>
+        <contacto>nbrill9w@china.com.cn</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RNP">
+        <nombre>Rongelap Island Airport</nombre>
+        <pais>China</pais>
+        <municipio>Rongelap Island</municipio>
+        <tasas moneda="Yuan Renminbi">4761</tasas>
+        <cuenta_bancaria>IT83 G556 6205 785I WQL8 VEDE XO7</cuenta_bancaria>
+        <contacto>hpatnelli9x@fotki.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GTE">
+        <nombre>Groote Eylandt Airport</nombre>
+        <pais>Ecuador</pais>
+        <municipio>Groote Eylandt</municipio>
+        <tasas moneda="Dollar">1950</tasas>
+        <cuenta_bancaria>GL41 2038 3548 0164 97</cuenta_bancaria>
+        <contacto>jdanat9y@si.edu</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KEH">
+        <nombre>Kenmore Air Harbor Inc Seaplane Base</nombre>
+        <pais>Egypt</pais>
+        <municipio>Kenmore</municipio>
+        <tasas moneda="Pound">2370</tasas>
+        <cuenta_bancaria>AL48 1226 1705 IZXW I0EB ZDF8 TGPF</cuenta_bancaria>
+        <contacto>bmccrackem9z@creativecommons.org</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YEM">
+        <nombre>Manitoulin East Municipal Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Manitowaning</municipio>
+        <tasas moneda="Peso">4327</tasas>
+        <cuenta_bancaria>FR75 0031 7311 83HU ANZ9 VPXK L62</cuenta_bancaria>
+        <contacto>mpassfielda0@paypal.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TLA">
+        <nombre>Teller Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Teller</municipio>
+        <tasas moneda="Peso">2553</tasas>
+        <cuenta_bancaria>AE63 0884 8175 8502 2882 660</cuenta_bancaria>
+        <contacto>aedlingtona1@parallels.com</contacto>
+        <anho_construccion>1961</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WRY">
+        <nombre>Westray Airport</nombre>
+        <pais>China</pais>
+        <municipio>Westray</municipio>
+        <tasas moneda="Yuan Renminbi">1864</tasas>
+        <cuenta_bancaria>IT53 J190 9104 576X 7OXS AIWX IWP</cuenta_bancaria>
+        <contacto>dkarolyia2@chicagotribune.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JTR">
+        <nombre>Santorini Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Santorini Island</municipio>
+        <tasas moneda="Dollar">3212</tasas>
+        <cuenta_bancaria>FR59 1909 6192 42PP P83N UASG B35</cuenta_bancaria>
+        <contacto>pgorgena3@paginegialle.it</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YSG">
+        <nombre>Lutselk'e Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Lutselk'e</municipio>
+        <tasas moneda="Euro">3056</tasas>
+        <cuenta_bancaria>GI84 YUSA B0RG TO4U BWQV AAZ</cuenta_bancaria>
+        <contacto>gpikea4@meetup.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MCX">
+        <nombre>Uytash Airport</nombre>
+        <pais>Sweden</pais>
+        <municipio>Makhachkala</municipio>
+        <tasas moneda="Krona">2173</tasas>
+        <cuenta_bancaria>KW61 DILI WHJP JEGH RPVG FJWQ GT1T ET</cuenta_bancaria>
+        <contacto>plarventa5@blinklist.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Piatã Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Piatã</municipio>
+        <tasas moneda="Peso">1774</tasas>
+        <cuenta_bancaria>FO19 6237 3657 4509 21</cuenta_bancaria>
+        <contacto>mpickerina6@yahoo.co.jp</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GPB">
+        <nombre>Tancredo Thomas de Faria Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Guarapuava</municipio>
+        <tasas moneda="Ruble">1310</tasas>
+        <cuenta_bancaria>FR95 7125 6056 98JT GVID UZMB E98</cuenta_bancaria>
+        <contacto>kdewhursta7@meetup.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MHV">
+        <nombre>Mojave Airport</nombre>
+        <pais>Chile</pais>
+        <municipio>Mojave</municipio>
+        <tasas moneda="Peso">4862</tasas>
+        <cuenta_bancaria>CZ47 9765 3015 4590 9427 4628</cuenta_bancaria>
+        <contacto>awhittera8@dropbox.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AKM">
+        <nombre>Zakuoma Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>ZaKouma</municipio>
+        <tasas moneda="Ruble">3113</tasas>
+        <cuenta_bancaria>FR41 2663 0041 62V2 LJLS QZIL O63</cuenta_bancaria>
+        <contacto>hellinghama9@webmd.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TRC">
+        <nombre>Francisco Sarabia International Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Torreón</municipio>
+        <tasas moneda="Rupiah">1434</tasas>
+        <cuenta_bancaria>FR52 6421 9510 38HU 0EXK 1UFD Q64</cuenta_bancaria>
+        <contacto>tdybbeaa@ehow.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VRL">
+        <nombre>Vila Real Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Vila Real</municipio>
+        <tasas moneda="Peso">3477</tasas>
+        <cuenta_bancaria>NO07 9592 7674 905</cuenta_bancaria>
+        <contacto>pstockauab@youku.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RER">
+        <nombre>Retalhuleu Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Retalhuleu</municipio>
+        <tasas moneda="Peso">2361</tasas>
+        <cuenta_bancaria>GB60 YZTC 5208 9614 4566 28</cuenta_bancaria>
+        <contacto>eswatonac@europa.eu</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FEN">
+        <nombre>Fernando de Noronha Airport</nombre>
+        <pais>Madagascar</pais>
+        <municipio>Fernando De Noronha</municipio>
+        <tasas moneda="Ariary">4860</tasas>
+        <cuenta_bancaria>PT07 5723 0737 8773 9372 4377 4</cuenta_bancaria>
+        <contacto>mosorioad@uiuc.edu</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PCB">
+        <nombre>Pondok Cabe Air Base</nombre>
+        <pais>Ukraine</pais>
+        <municipio>Jakarta</municipio>
+        <tasas moneda="Hryvnia">2025</tasas>
+        <cuenta_bancaria>CH14 6035 8ZAU 6TBI K9FC C</cuenta_bancaria>
+        <contacto>ljurschae@opensource.org</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WMT">
+        <nombre>Zunyi Maotai Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Zunyi</municipio>
+        <tasas moneda="Ruble">2966</tasas>
+        <cuenta_bancaria>KZ61 376Y 1NTK YIX4 L2JE</cuenta_bancaria>
+        <contacto>fcuthillaf@google.pl</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MTJ">
+        <nombre>Montrose Regional Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Montrose</municipio>
+        <tasas moneda="Peso">1398</tasas>
+        <cuenta_bancaria>MR62 2065 9794 9698 6791 5497 447</cuenta_bancaria>
+        <contacto>dganfortheag@seattletimes.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OSY">
+        <nombre>Namsos Høknesøra Airport</nombre>
+        <pais>Greece</pais>
+        <municipio>Namsos</municipio>
+        <tasas moneda="Euro">1859</tasas>
+        <cuenta_bancaria>GL83 3804 0779 7928 71</cuenta_bancaria>
+        <contacto>coskehanah@example.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AND">
+        <nombre>Anderson Regional Airport</nombre>
+        <pais>China</pais>
+        <municipio>Anderson</municipio>
+        <tasas moneda="Yuan Renminbi">1571</tasas>
+        <cuenta_bancaria>KW15 NRNC L7YG LBVP LQXJ QGLU BL0A HU</cuenta_bancaria>
+        <contacto>posbournai@xing.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GKD">
+        <nombre>Imroz Airport</nombre>
+        <pais>Greece</pais>
+        <municipio>Gökçeada</municipio>
+        <tasas moneda="Euro">4670</tasas>
+        <cuenta_bancaria>GT28 ZXG8 STWL CHH7 3NHD MFXM BXUR</cuenta_bancaria>
+        <contacto>usargisonaj@eventbrite.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SHX">
+        <nombre>Shageluk Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Shageluk</municipio>
+        <tasas moneda="Rupiah">2468</tasas>
+        <cuenta_bancaria>CH69 3554 3AXZ MXF9 JLPF W</cuenta_bancaria>
+        <contacto>rbevilleak@smugmug.com</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FOK">
+        <nombre>Francis S Gabreski Airport</nombre>
+        <pais>Czech Republic</pais>
+        <municipio>Westhampton Beach</municipio>
+        <tasas moneda="Koruna">2007</tasas>
+        <cuenta_bancaria>TR03 2851 7PSW SFIP F7IX MCBX J1</cuenta_bancaria>
+        <contacto>vrollinsal@de.vu</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CDT">
+        <nombre>Castellón-Costa Azahar Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Castellón de la Plana</municipio>
+        <tasas moneda="Rupiah">2316</tasas>
+        <cuenta_bancaria>AD03 9002 4613 YTBG KSUY E3EF</cuenta_bancaria>
+        <contacto>abengalam@europa.eu</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SQE">
+        <nombre>San Luis De Palenque Airport</nombre>
+        <pais>China</pais>
+        <municipio>San Luis De Palenque</municipio>
+        <tasas moneda="Yuan Renminbi">2959</tasas>
+        <cuenta_bancaria>FI51 3698 3613 3589 88</cuenta_bancaria>
+        <contacto>lknightlyan@gizmodo.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TFI">
+        <nombre>Tufi Airport</nombre>
+        <pais>China</pais>
+        <municipio>Tufi</municipio>
+        <tasas moneda="Yuan Renminbi">1848</tasas>
+        <cuenta_bancaria>BA38 8624 2895 0739 3666</cuenta_bancaria>
+        <contacto>hsuddardsao@example.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UTC">
+        <nombre>Soesterberg Air Base</nombre>
+        <pais>Russia</pais>
+        <municipio>Soesterberg</municipio>
+        <tasas moneda="Ruble">2898</tasas>
+        <cuenta_bancaria>SA82 24WF RBU6 QV13 YSJT UOCI</cuenta_bancaria>
+        <contacto>tcoolahanap@github.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DCK">
+        <nombre>Dahl Creek Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Dahl Creek</municipio>
+        <tasas moneda="Peso">4549</tasas>
+        <cuenta_bancaria>RO76 VDPQ LPJ6 SWMB 4ODH GFAX</cuenta_bancaria>
+        <contacto>lslipperaq@sakura.ne.jp</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="POJ">
+        <nombre>Patos de Minas Airport</nombre>
+        <pais>Yemen</pais>
+        <municipio>Patos De Minas</municipio>
+        <tasas moneda="Rial">4956</tasas>
+        <cuenta_bancaria>PT74 5188 1483 3458 3884 7207 3</cuenta_bancaria>
+        <contacto>sjanecekar@merriam-webster.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Fazenda São João Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Orlândia</municipio>
+        <tasas moneda="Ruble">2086</tasas>
+        <cuenta_bancaria>FR19 7567 7524 75MZ XUFC 4LQK D87</cuenta_bancaria>
+        <contacto>eduffynas@archive.org</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LBT">
+        <nombre>Lumberton Regional Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Lumberton</municipio>
+        <tasas moneda="Real">1109</tasas>
+        <cuenta_bancaria>BR71 8425 2552 8804 8304 7196 135G 4</cuenta_bancaria>
+        <contacto>rklugat@com.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MVA">
+        <nombre>Reykjahlíð Airport</nombre>
+        <pais>Afghanistan</pais>
+        <municipio>Myvatn</municipio>
+        <tasas moneda="Afghani">1163</tasas>
+        <cuenta_bancaria>FR26 3888 5300 64CB I2UH D5WH O14</cuenta_bancaria>
+        <contacto>swinceau@163.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SCP">
+        <nombre>Mont-Dauphin - St-Crépin Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Mende</municipio>
+        <tasas moneda="Peso">1623</tasas>
+        <cuenta_bancaria>CH27 1973 5S9X HZMH DW1Y X</cuenta_bancaria>
+        <contacto>gklagemanav@deliciousdays.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MMI">
+        <nombre>McMinn County Airport</nombre>
+        <pais>Samoa</pais>
+        <municipio>Athens</municipio>
+        <tasas moneda="Tala">2727</tasas>
+        <cuenta_bancaria>TN54 8271 6995 6802 1693 8006</cuenta_bancaria>
+        <contacto>abrandacciaw@europa.eu</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LCE">
+        <nombre>Goloson International Airport</nombre>
+        <pais>China</pais>
+        <municipio>La Ceiba</municipio>
+        <tasas moneda="Yuan Renminbi">1431</tasas>
+        <cuenta_bancaria>GR12 2682 960R AV1G SVQO AZQ3 J2X</cuenta_bancaria>
+        <contacto>whartyax@privacy.gov.au</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PEI">
+        <nombre>Matecaña International Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Pereira</municipio>
+        <tasas moneda="Rupiah">2898</tasas>
+        <cuenta_bancaria>LV56 EBKN OEQW ML6A B8XP A</cuenta_bancaria>
+        <contacto>rshobrookay@kickstarter.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ELJ">
+        <nombre>El Recreo Airport</nombre>
+        <pais>New Zealand</pais>
+        <municipio>Ruperto Polania</municipio>
+        <tasas moneda="Dollar">3805</tasas>
+        <cuenta_bancaria>FR91 6645 7383 480W YF36 PTQI T52</cuenta_bancaria>
+        <contacto>vboalaz@mtv.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CXI">
+        <nombre>Cassidy International Airport</nombre>
+        <pais>Haiti</pais>
+        <municipio>Banana</municipio>
+        <tasas moneda="Gourde">2402</tasas>
+        <cuenta_bancaria>FO76 3888 4573 9950 97</cuenta_bancaria>
+        <contacto>sfrantsevb0@storify.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OBF">
+        <nombre>Oberpfaffenhofen Airport</nombre>
+        <pais>China</pais>
+        <municipio />
+        <tasas moneda="Yuan Renminbi">1461</tasas>
+        <cuenta_bancaria>GL04 2530 5224 1789 54</cuenta_bancaria>
+        <contacto>mdallb1@toplist.cz</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LAG">
+        <nombre>La Guaira Airport</nombre>
+        <pais>Finland</pais>
+        <municipio>La Guaira</municipio>
+        <tasas moneda="Euro">1482</tasas>
+        <cuenta_bancaria>LU53 062S CVT2 CZID MNHV</cuenta_bancaria>
+        <contacto>dgekeb2@answers.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LLJ">
+        <nombre>Lalmonirhat Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Lalmonirhat</municipio>
+        <tasas moneda="Peso">2501</tasas>
+        <cuenta_bancaria>KZ56 380C Z6EE 73H0 I0LH</cuenta_bancaria>
+        <contacto>msunderlandb3@google.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YXI">
+        <nombre>Bonnechere Airport</nombre>
+        <pais>Spain</pais>
+        <municipio>Killaloe</municipio>
+        <tasas moneda="Euro">3607</tasas>
+        <cuenta_bancaria>CY18 6340 5447 Q0TY DIN0 7GJE GCHM</cuenta_bancaria>
+        <contacto>pevenettb4@tinyurl.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IMP">
+        <nombre>Prefeito Renato Moreira Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Imperatriz</municipio>
+        <tasas moneda="Rupiah">2402</tasas>
+        <cuenta_bancaria>BH96 VEVA F9UL ZTVF 1GRV FF</cuenta_bancaria>
+        <contacto>yrothonb5@wp.com</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GBU">
+        <nombre>Khashm El Girba Airport</nombre>
+        <pais>France</pais>
+        <municipio>Khashm El Girba</municipio>
+        <tasas moneda="Euro">2501</tasas>
+        <cuenta_bancaria>FO53 1577 1282 3586 54</cuenta_bancaria>
+        <contacto>edunningb6@columbia.edu</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LUP">
+        <nombre>Kalaupapa Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Kalaupapa</municipio>
+        <tasas moneda="Tugrik">4003</tasas>
+        <cuenta_bancaria>LB17 9011 7I1B 8L9M 1J9D FBA8 PXAA</cuenta_bancaria>
+        <contacto>ftanswellb7@i2i.jp</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WWP">
+        <nombre>Whale Pass Seaplane Float Harbor Facility</nombre>
+        <pais>Palestinian Territory</pais>
+        <municipio>Whale Pass</municipio>
+        <tasas moneda="Shekel">4352</tasas>
+        <cuenta_bancaria>HU07 7103 9227 3661 5981 4234 1568</cuenta_bancaria>
+        <contacto>mjakubovicsb8@ted.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SIV">
+        <nombre>Sullivan County Airport</nombre>
+        <pais>Namibia</pais>
+        <municipio>Monticello</municipio>
+        <tasas moneda="Dollar">4867</tasas>
+        <cuenta_bancaria>CY79 1374 5463 ZGJI 0MUJ G373 CBU7</cuenta_bancaria>
+        <contacto>felliottb9@weibo.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LIN">
+        <nombre>Milano Linate Airport</nombre>
+        <pais>China</pais>
+        <municipio>Milan</municipio>
+        <tasas moneda="Yuan Renminbi">2376</tasas>
+        <cuenta_bancaria>IE05 WYKD 2596 7860 5514 47</cuenta_bancaria>
+        <contacto>gmurrthumba@noaa.gov</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ULD">
+        <nombre>Prince Mangosuthu Buthelezi Airport</nombre>
+        <pais>Finland</pais>
+        <municipio>Ulundi</municipio>
+        <tasas moneda="Euro">3340</tasas>
+        <cuenta_bancaria>CY46 2927 7242 TCYJ NTTQ EIZY PV5Y</cuenta_bancaria>
+        <contacto>cramshawbb@over-blog.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OSD">
+        <nombre>Åre Östersund Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Östersund</municipio>
+        <tasas moneda="Real">4792</tasas>
+        <cuenta_bancaria>FR05 3485 6283 65HC XEKB B5AU 686</cuenta_bancaria>
+        <contacto>dmockerbc@go.com</contacto>
+        <anho_construccion>1977</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ASV">
+        <nombre>Amboseli Airport</nombre>
+        <pais>Djibouti</pais>
+        <municipio>Amboseli National Park</municipio>
+        <tasas moneda="Franc">3436</tasas>
+        <cuenta_bancaria>FR74 4767 3816 06W8 ASSA BZJK 539</cuenta_bancaria>
+        <contacto>agahaganbd@blogtalkradio.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VIU">
+        <nombre>Viru Harbour Airstrip</nombre>
+        <pais>Russia</pais>
+        <municipio>Viru</municipio>
+        <tasas moneda="Ruble">1531</tasas>
+        <cuenta_bancaria>LV65 JZHB VVI5 EBDW C30Z I</cuenta_bancaria>
+        <contacto>cfishbournbe@wiley.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="REN">
+        <nombre>Orenburg Central Airport</nombre>
+        <pais>China</pais>
+        <municipio>Orenburg</municipio>
+        <tasas moneda="Yuan Renminbi">4884</tasas>
+        <cuenta_bancaria>RO92 AOTU NZ8Z 0BMB PNPM JJR0</cuenta_bancaria>
+        <contacto>bmcilwreathbf@chronoengine.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TPR">
+        <nombre>Tom Price Airport</nombre>
+        <pais>China</pais>
+        <municipio>Tom Price</municipio>
+        <tasas moneda="Yuan Renminbi">2206</tasas>
+        <cuenta_bancaria>FR55 2616 5869 257X YBHX JRBW X97</cuenta_bancaria>
+        <contacto>emaunderbg@wikipedia.org</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ARK">
+        <nombre>Arusha Airport</nombre>
+        <pais>Nigeria</pais>
+        <municipio>Arusha</municipio>
+        <tasas moneda="Naira">3331</tasas>
+        <cuenta_bancaria>KZ39 421F UI5L GERD D3EQ</cuenta_bancaria>
+        <contacto>abatchelorbh@latimes.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="THA">
+        <nombre>Tullahoma Regional Arpt/Wm Northern Field</nombre>
+        <pais>Philippines</pais>
+        <municipio>Tullahoma</municipio>
+        <tasas moneda="Peso">3925</tasas>
+        <cuenta_bancaria>MT58 CSHP 2841 8EAN XTVT 6DBQ BZKF TOA</cuenta_bancaria>
+        <contacto>vwilcoxbi@dedecms.com</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LZH">
+        <nombre>Liuzhou Bailian Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Liuzhou</municipio>
+        <tasas moneda="Zloty">2433</tasas>
+        <cuenta_bancaria>AL82 2198 4457 MJZZ HWXX 5GSR RKDQ</cuenta_bancaria>
+        <contacto>btomaszewiczbj@narod.ru</contacto>
+        <anho_construccion>1989</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LCG">
+        <nombre>A Coruña Airport</nombre>
+        <pais>Greece</pais>
+        <municipio>Culleredo</municipio>
+        <tasas moneda="Euro">3494</tasas>
+        <cuenta_bancaria>DO18 HCPQ 3243 8677 1496 0196 9904</cuenta_bancaria>
+        <contacto>fhealeasbk@xinhuanet.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WKB">
+        <nombre>Warracknabeal Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">2767</tasas>
+        <cuenta_bancaria>TN14 5461 5267 3700 6079 1469</cuenta_bancaria>
+        <contacto>jhawleybl@ehow.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KUL">
+        <nombre>Kuala Lumpur International Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Kuala Lumpur</municipio>
+        <tasas moneda="Rupiah">4172</tasas>
+        <cuenta_bancaria>TN41 2023 5633 4350 8741 3122</cuenta_bancaria>
+        <contacto>ecampanabm@google.cn</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BOA">
+        <nombre>Boma Airport</nombre>
+        <pais>Pakistan</pais>
+        <municipio>Boma</municipio>
+        <tasas moneda="Rupee">4486</tasas>
+        <cuenta_bancaria>DO21 5GVT 1014 9782 4813 3535 7949</cuenta_bancaria>
+        <contacto>mdoretbn@cocolog-nifty.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YFH">
+        <nombre>Fort Hope Airport</nombre>
+        <pais>China</pais>
+        <municipio>Fort Hope</municipio>
+        <tasas moneda="Yuan Renminbi">4415</tasas>
+        <cuenta_bancaria>BA24 3326 6683 2939 4949</cuenta_bancaria>
+        <contacto>agallicobo@dailymail.co.uk</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="EVV">
+        <nombre>Evansville Regional Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Evansville</municipio>
+        <tasas moneda="Peso">4765</tasas>
+        <cuenta_bancaria>ME81 2938 9317 0971 1328 43</cuenta_bancaria>
+        <contacto>rpaslowbp@jimdo.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TJI">
+        <nombre>Trujillo Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Trujillo</municipio>
+        <tasas moneda="Ruble">1274</tasas>
+        <cuenta_bancaria>BE32 5702 4565 1267</cuenta_bancaria>
+        <contacto>adumbrillbq@ezinearticles.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JIK">
+        <nombre>Ikaria Airport</nombre>
+        <pais>Guatemala</pais>
+        <municipio>Ikaria Island</municipio>
+        <tasas moneda="Quetzal">4218</tasas>
+        <cuenta_bancaria>FR64 5397 2170 567Z RDHN KLVH Z79</cuenta_bancaria>
+        <contacto>dhansburybr@discovery.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SBZ">
+        <nombre>Sibiu International Airport</nombre>
+        <pais>Vietnam</pais>
+        <municipio>Sibiu</municipio>
+        <tasas moneda="Dong">4738</tasas>
+        <cuenta_bancaria>FR33 7208 7911 82OB JHYB MEW6 L20</cuenta_bancaria>
+        <contacto>cloderbs@reference.com</contacto>
+        <anho_construccion>1989</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UPB">
+        <nombre>Playa Baracoa Airport</nombre>
+        <pais>China</pais>
+        <municipio>Havana</municipio>
+        <tasas moneda="Yuan Renminbi">2105</tasas>
+        <cuenta_bancaria>VG22 GOHW 5092 8449 8986 2943</cuenta_bancaria>
+        <contacto>rstanlockbt@sciencedirect.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IKB">
+        <nombre>Wilkes County Airport</nombre>
+        <pais>Qatar</pais>
+        <municipio>North Wilkesboro</municipio>
+        <tasas moneda="Rial">3767</tasas>
+        <cuenta_bancaria>AL91 3812 9561 JFNP FCPV Q9IR DKDC</cuenta_bancaria>
+        <contacto>hhawsbybu@reference.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UEL">
+        <nombre>Quelimane Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Quelimane</municipio>
+        <tasas moneda="Zloty">3748</tasas>
+        <cuenta_bancaria>NL55 HOMV 1375 9489 67</cuenta_bancaria>
+        <contacto>cabellsbv@xrea.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MYB">
+        <nombre>Mayumba Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Mayumba</municipio>
+        <tasas moneda="Peso">4189</tasas>
+        <cuenta_bancaria>ES10 6907 2935 8874 4302 3423</cuenta_bancaria>
+        <contacto>aroperbw@hc360.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KSJ">
+        <nombre>Kasos Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Kasos Island</municipio>
+        <tasas moneda="Dollar">3445</tasas>
+        <cuenta_bancaria>SM54 Y493 7871 021Q 0GZA CKG9 C2R</cuenta_bancaria>
+        <contacto>myakubovicsbx@bandcamp.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AFT">
+        <nombre>Afutara Aerodrome</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Bila</municipio>
+        <tasas moneda="Rupiah">4316</tasas>
+        <cuenta_bancaria>RS73 6696 2838 9160 3257 26</cuenta_bancaria>
+        <contacto>rricardsby@ftc.gov</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TOD">
+        <nombre>Pulau Tioman Airport</nombre>
+        <pais>China</pais>
+        <municipio>Pulau Tioman</municipio>
+        <tasas moneda="Yuan Renminbi">2016</tasas>
+        <cuenta_bancaria>CH07 0569 9RQB JEXZ TJKG 4</cuenta_bancaria>
+        <contacto>kandrieubz@chronoengine.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UTA">
+        <nombre>Mutare Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Mutare</municipio>
+        <tasas moneda="Rupiah">4472</tasas>
+        <cuenta_bancaria>FR69 2745 0996 3128 MAJF KSQF B18</cuenta_bancaria>
+        <contacto>ariddlesdenc0@weather.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WHF">
+        <nombre>Wadi Halfa Airport</nombre>
+        <pais>France</pais>
+        <municipio>Wadi Halfa</municipio>
+        <tasas moneda="Euro">3633</tasas>
+        <cuenta_bancaria>SM97 V749 3660 297O ZLXC 5CA3 1R5</cuenta_bancaria>
+        <contacto>pbircherc1@tripod.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RDO">
+        <nombre>Radom Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Radom</municipio>
+        <tasas moneda="Real">1486</tasas>
+        <cuenta_bancaria>LT24 0141 2011 2336 6480</cuenta_bancaria>
+        <contacto>gmattackc2@goodreads.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="QEF">
+        <nombre>Frankfurt-Egelsbach Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Frankfurt am Main</municipio>
+        <tasas moneda="Euro">4332</tasas>
+        <cuenta_bancaria>GB90 SRNT 0090 3524 9307 03</cuenta_bancaria>
+        <contacto>ktantec3@businessweek.com</contacto>
+        <anho_construccion>1988</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DIE">
+        <nombre>Arrachart Airport</nombre>
+        <pais>South Africa</pais>
+        <municipio />
+        <tasas moneda="Rand">2619</tasas>
+        <cuenta_bancaria>AT28 2474 1011 5176 8187</cuenta_bancaria>
+        <contacto>tlemonbyc4@nationalgeographic.com</contacto>
+        <anho_construccion>2013</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TPI">
+        <nombre>Tapini Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Tapini</municipio>
+        <tasas moneda="Peso">3282</tasas>
+        <cuenta_bancaria>MC89 7578 0473 628W FDPV WFC0 P95</cuenta_bancaria>
+        <contacto>bisacssonc5@fema.gov</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LXA">
+        <nombre>Lhasa Gonggar Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Lhasa</municipio>
+        <tasas moneda="Dollar">1459</tasas>
+        <cuenta_bancaria>SA33 36L7 OTNZ PZHN QSQS 0SHJ</cuenta_bancaria>
+        <contacto>showelsc6@theguardian.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FOY">
+        <nombre>Foya Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Foya</municipio>
+        <tasas moneda="Tugrik">2522</tasas>
+        <cuenta_bancaria>GT86 6OS6 RIX5 OVES LDNL SA7U HLTM</cuenta_bancaria>
+        <contacto>ikinkaidc7@chicagotribune.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SUJ">
+        <nombre>Satu Mare Airport</nombre>
+        <pais>Colombia</pais>
+        <municipio>Satu Mare</municipio>
+        <tasas moneda="Peso">1521</tasas>
+        <cuenta_bancaria>NO17 6371 0311 326</cuenta_bancaria>
+        <contacto>glaffertyc8@storify.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AHD">
+        <nombre>Ardmore Downtown Executive Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Ardmore</municipio>
+        <tasas moneda="Zloty">4032</tasas>
+        <cuenta_bancaria>ES38 6916 7495 1948 3967 1695</cuenta_bancaria>
+        <contacto>dmccreec9@flavors.me</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LML">
+        <nombre>Lae Island Airport</nombre>
+        <pais>China</pais>
+        <municipio>Lae Island</municipio>
+        <tasas moneda="Yuan Renminbi">1174</tasas>
+        <cuenta_bancaria>MT58 LWAZ 2983 110P L8BJ OKUM BO8W 2VF</cuenta_bancaria>
+        <contacto>iruffleca@mtv.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YUJ">
+        <nombre>Lady Franklin Point Airport</nombre>
+        <pais>Chile</pais>
+        <municipio />
+        <tasas moneda="Peso">2698</tasas>
+        <cuenta_bancaria>BG42 XKYV 7937 64D5 RJJI QJ</cuenta_bancaria>
+        <contacto>plordencb@ucoz.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SCG">
+        <nombre>Spring Creek Airport</nombre>
+        <pais>Czech Republic</pais>
+        <municipio />
+        <tasas moneda="Koruna">2726</tasas>
+        <cuenta_bancaria>FR31 5680 2503 4724 O7N6 VSGU G57</cuenta_bancaria>
+        <contacto>shordellcc@storify.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CGB">
+        <nombre>Marechal Rondon Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Cuiabá</municipio>
+        <tasas moneda="Rupiah">3842</tasas>
+        <cuenta_bancaria>BG88 QZUL 6072 843V FCZW OE</cuenta_bancaria>
+        <contacto>tbrycecd@imageshack.us</contacto>
+        <anho_construccion>1963</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CKI">
+        <nombre>Croker Island Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio />
+        <tasas moneda="Rupiah">1311</tasas>
+        <cuenta_bancaria>TN04 9700 6947 7239 8328 8501</cuenta_bancaria>
+        <contacto>kpadghamce@cdbaby.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YFS">
+        <nombre>Fort Simpson Airport</nombre>
+        <pais>China</pais>
+        <municipio>Fort Simpson</municipio>
+        <tasas moneda="Yuan Renminbi">4783</tasas>
+        <cuenta_bancaria>GR58 2889 795A PY5O EL6V 0TKP B53</cuenta_bancaria>
+        <contacto>usymmscf@rediff.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MHC">
+        <nombre>Mocopulli Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Dalcahue</municipio>
+        <tasas moneda="Tugrik">2667</tasas>
+        <cuenta_bancaria>FR51 3406 5157 178D MG6V PLBJ O80</cuenta_bancaria>
+        <contacto>kmillmoecg@barnesandnoble.com</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LCX">
+        <nombre>Longyan Guanzhishan Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Longyan</municipio>
+        <tasas moneda="Peso">2714</tasas>
+        <cuenta_bancaria>MR09 4912 2152 7635 5161 2153 138</cuenta_bancaria>
+        <contacto>mbodessonch@networkadvertising.org</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RCA">
+        <nombre>Ellsworth Air Force Base</nombre>
+        <pais>China</pais>
+        <municipio>Rapid City</municipio>
+        <tasas moneda="Yuan Renminbi">2903</tasas>
+        <cuenta_bancaria>GT14 E5XB BTPO Z4GH P3SN LPBU 6TH4</cuenta_bancaria>
+        <contacto>ewillowayci@prnewswire.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TIF">
+        <nombre>Ta’if Regional Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Ta’if</municipio>
+        <tasas moneda="Peso">3043</tasas>
+        <cuenta_bancaria>DE67 4380 4417 9117 0942 90</cuenta_bancaria>
+        <contacto>bboissieuxcj@usa.gov</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AOL">
+        <nombre>Paso De Los Libres Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Paso de los Libres</municipio>
+        <tasas moneda="Rupiah">3663</tasas>
+        <cuenta_bancaria>RS41 4902 7879 4153 1336 06</cuenta_bancaria>
+        <contacto>leacottck@buzzfeed.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OXF">
+        <nombre>Oxford (Kidlington) Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Kidlington</municipio>
+        <tasas moneda="Tugrik">1663</tasas>
+        <cuenta_bancaria>MT49 RRVE 4697 3KU7 7R4A WLDR BJCL REY</cuenta_bancaria>
+        <contacto>jvernicl@cyberchimps.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MPE">
+        <nombre>Griswold Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Madison</municipio>
+        <tasas moneda="Rupiah">2857</tasas>
+        <cuenta_bancaria>IT22 M692 0759 438M XLSW LEKM GKG</cuenta_bancaria>
+        <contacto>fbedocm@infoseek.co.jp</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TOG">
+        <nombre>Togiak Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Togiak Village</municipio>
+        <tasas moneda="Baht">4662</tasas>
+        <cuenta_bancaria>DE75 9845 9701 5545 4685 66</cuenta_bancaria>
+        <contacto>nhewinscn@elpais.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SBA">
+        <nombre>Santa Barbara Municipal Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Santa Barbara</municipio>
+        <tasas moneda="Peso">2462</tasas>
+        <cuenta_bancaria>FR80 4875 5362 71NB 47ON 1X82 Y93</cuenta_bancaria>
+        <contacto>dpendleberryco@miitbeian.gov.cn</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BSJ">
+        <nombre>Bairnsdale Airport</nombre>
+        <pais>Kiribati</pais>
+        <municipio />
+        <tasas moneda="Dollar">3006</tasas>
+        <cuenta_bancaria>BG79 FQHL 1674 29VN AJ1Z 4M</cuenta_bancaria>
+        <contacto>awardercp@redcross.org</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BLT">
+        <nombre>Blackwater Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio />
+        <tasas moneda="Real">3014</tasas>
+        <cuenta_bancaria>FR90 8395 7936 36HL H4EO 4P8V N06</cuenta_bancaria>
+        <contacto>cbickercq@sciencedirect.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MXN">
+        <nombre>Morlaix-Ploujean Airport</nombre>
+        <pais>China</pais>
+        <municipio>Morlaix/Ploujean</municipio>
+        <tasas moneda="Yuan Renminbi">4921</tasas>
+        <cuenta_bancaria>GT26 FJK4 GP2X HY33 EJ4D EBEY 8MET</cuenta_bancaria>
+        <contacto>ffozzardcr@usatoday.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CEB">
+        <nombre>Mactan Cebu International Airport</nombre>
+        <pais>Chad</pais>
+        <municipio>Lapu-Lapu City</municipio>
+        <tasas moneda="Franc">3420</tasas>
+        <cuenta_bancaria>FR53 0414 4480 70TW X5V2 GXEN P50</cuenta_bancaria>
+        <contacto>rkohnertcs@stumbleupon.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CIV">
+        <nombre>Chomley Seaplane Base</nombre>
+        <pais>Vietnam</pais>
+        <municipio>Chomley</municipio>
+        <tasas moneda="Dong">4647</tasas>
+        <cuenta_bancaria>GE91 YH25 7217 7963 5263 08</cuenta_bancaria>
+        <contacto>mgreepct@timesonline.co.uk</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JZH">
+        <nombre>Jiuzhai Huanglong Airport</nombre>
+        <pais>Honduras</pais>
+        <municipio>Jiuzhaigou</municipio>
+        <tasas moneda="Lempira">2302</tasas>
+        <cuenta_bancaria>GE22 YH20 3538 3053 5976 71</cuenta_bancaria>
+        <contacto>cselwynecu@gnu.org</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ATP">
+        <nombre>Aitape Airport</nombre>
+        <pais>Colombia</pais>
+        <municipio>Aitape</municipio>
+        <tasas moneda="Peso">2189</tasas>
+        <cuenta_bancaria>FR22 1234 5473 350B H7MS 3RJC O95</cuenta_bancaria>
+        <contacto>fcowdroycv@baidu.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KRZ">
+        <nombre>Basango Mboliasa Airport</nombre>
+        <pais>Serbia</pais>
+        <municipio>Kiri</municipio>
+        <tasas moneda="Dinar">3300</tasas>
+        <cuenta_bancaria>LT91 3101 8048 9829 0016</cuenta_bancaria>
+        <contacto>wgreasleycw@craigslist.org</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BZF">
+        <nombre>Benton Field</nombre>
+        <pais>Iran</pais>
+        <municipio>Redding</municipio>
+        <tasas moneda="Rial">1938</tasas>
+        <cuenta_bancaria>FR20 0472 1209 7026 ZRWY UBXR P26</cuenta_bancaria>
+        <contacto>nspatigcx@cbslocal.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VOI">
+        <nombre>Voinjama Airport</nombre>
+        <pais>Nepal</pais>
+        <municipio>Voinjama</municipio>
+        <tasas moneda="Rupee">2355</tasas>
+        <cuenta_bancaria>GB08 QCNO 4388 8957 1594 35</cuenta_bancaria>
+        <contacto>rfranzkecy@skyrock.com</contacto>
+        <anho_construccion>1965</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Guaporé Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Guaporé</municipio>
+        <tasas moneda="Ruble">1510</tasas>
+        <cuenta_bancaria>IT40 O762 4795 914Y 7GA9 NLSJ M1M</cuenta_bancaria>
+        <contacto>fsimpkisscz@ebay.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GOH">
+        <nombre>Godthaab / Nuuk Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Nuuk</municipio>
+        <tasas moneda="Rupiah">4748</tasas>
+        <cuenta_bancaria>FR13 7171 0229 334Q UMWQ LFAL S32</cuenta_bancaria>
+        <contacto>gbickerstassed0@ebay.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MTU">
+        <nombre>Montepuez Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Montepuez</municipio>
+        <tasas moneda="Rupiah">4132</tasas>
+        <cuenta_bancaria>FR13 7312 0544 28PP KMKT FH2X F76</cuenta_bancaria>
+        <contacto>elavertyd1@wix.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SRF">
+        <nombre>Hamilton Field</nombre>
+        <pais>Philippines</pais>
+        <municipio>San Rafael</municipio>
+        <tasas moneda="Peso">2998</tasas>
+        <cuenta_bancaria>GR22 4573 778U MFJI WTM6 KZWF KJR</cuenta_bancaria>
+        <contacto>jjakuboviczd2@wisc.edu</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FBA">
+        <nombre>Fonte Boa Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Fonte Boa</municipio>
+        <tasas moneda="Rupiah">3167</tasas>
+        <cuenta_bancaria>MR78 0346 5695 0501 1008 4894 881</cuenta_bancaria>
+        <contacto>hdoerlingd3@aol.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TES">
+        <nombre>Tessenei Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Tessenei</municipio>
+        <tasas moneda="Ruble">4256</tasas>
+        <cuenta_bancaria>FR02 8873 2103 036T AMET RIPW G35</cuenta_bancaria>
+        <contacto>jhawkswoodd4@weather.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BKW">
+        <nombre>Raleigh County Memorial Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Beckley</municipio>
+        <tasas moneda="Real">4884</tasas>
+        <cuenta_bancaria>RO98 WTKV YEE2 KQNG L8F2 NFW1</cuenta_bancaria>
+        <contacto>lcullityd5@archive.org</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IXG">
+        <nombre>Belgaum Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Belgaum</municipio>
+        <tasas moneda="Zloty">3982</tasas>
+        <cuenta_bancaria>IT23 F421 1329 094T M8BJ VGZ3 YRO</cuenta_bancaria>
+        <contacto>mtresslerd6@icio.us</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UIP">
+        <nombre>Quimper-Cornouaille Airport</nombre>
+        <pais>Azerbaijan</pais>
+        <municipio>Quimper/Pluguffan</municipio>
+        <tasas moneda="Manat">2781</tasas>
+        <cuenta_bancaria>HU20 9303 0556 6927 3580 8524 3083</cuenta_bancaria>
+        <contacto>amittend7@youtu.be</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NOS">
+        <nombre>Fascene Airport</nombre>
+        <pais>China</pais>
+        <municipio>Nosy Be</municipio>
+        <tasas moneda="Yuan Renminbi">4852</tasas>
+        <cuenta_bancaria>PL56 3480 6947 5410 3458 1683 3066</cuenta_bancaria>
+        <contacto>rbalasinid8@nasa.gov</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BPK">
+        <nombre>Biangabip Airport</nombre>
+        <pais>China</pais>
+        <municipio>Biangabip</municipio>
+        <tasas moneda="Yuan Renminbi">2550</tasas>
+        <cuenta_bancaria>FR31 3291 0245 07IR VHTR FNNP I66</cuenta_bancaria>
+        <contacto>amatussowd9@rakuten.co.jp</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AHB">
+        <nombre>Abha Regional Airport</nombre>
+        <pais>Cyprus</pais>
+        <municipio>Abha</municipio>
+        <tasas moneda="Euro">2918</tasas>
+        <cuenta_bancaria>VG11 DOWQ 0140 7503 8479 3279</cuenta_bancaria>
+        <contacto>tcallearda@hugedomains.com</contacto>
+        <anho_construccion>1987</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PSE">
+        <nombre>Mercedita Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Ponce</municipio>
+        <tasas moneda="Rupiah">1891</tasas>
+        <cuenta_bancaria>IT18 K261 8682 274V NS4B NX3M EF9</cuenta_bancaria>
+        <contacto>dboyalldb@theglobeandmail.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TBA">
+        <nombre>Tabibuga Airport</nombre>
+        <pais>South Africa</pais>
+        <municipio>Tabibuga</municipio>
+        <tasas moneda="Rand">4362</tasas>
+        <cuenta_bancaria>FR85 9325 0872 654F I7AN 2CTU 747</cuenta_bancaria>
+        <contacto>arichingsdc@yolasite.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TRE">
+        <nombre>Tiree Airport</nombre>
+        <pais>China</pais>
+        <municipio>Balemartine</municipio>
+        <tasas moneda="Yuan Renminbi">2327</tasas>
+        <cuenta_bancaria>IL67 9827 0561 9931 5989 767</cuenta_bancaria>
+        <contacto>pcolquytedd@mayoclinic.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RIL">
+        <nombre>Garfield County Regional Airport</nombre>
+        <pais>Hong Kong</pais>
+        <municipio>Rifle</municipio>
+        <tasas moneda="Dollar">4138</tasas>
+        <cuenta_bancaria>GT33 YLMF HTVT I9SR KFXJ PP66 VW7B</cuenta_bancaria>
+        <contacto>cfloatde@barnesandnoble.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MXT">
+        <nombre>Maintirano Airport</nombre>
+        <pais>Namibia</pais>
+        <municipio>Maintirano</municipio>
+        <tasas moneda="Dollar">2042</tasas>
+        <cuenta_bancaria>SA64 33EK ORIH K0WU YQ9T YZOD</cuenta_bancaria>
+        <contacto>tcroizierdf@cyberchimps.com</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IVA">
+        <nombre>Ampampamena Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">2734</tasas>
+        <cuenta_bancaria>SM14 R180 6257 081T AUMO 8EJI X3U</cuenta_bancaria>
+        <contacto>gdurrelldg@comsenz.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GRE">
+        <nombre>Greenville Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Greenville</municipio>
+        <tasas moneda="Real">1752</tasas>
+        <cuenta_bancaria>FO15 8292 7244 1297 74</cuenta_bancaria>
+        <contacto>mmccarddh@joomla.org</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HZL">
+        <nombre>Hazleton Municipal Airport</nombre>
+        <pais>Kuwait</pais>
+        <municipio>Hazleton</municipio>
+        <tasas moneda="Dinar">4137</tasas>
+        <cuenta_bancaria>FR78 7482 9026 13YP OJHN RUU1 226</cuenta_bancaria>
+        <contacto>wlouddi@bbc.co.uk</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YIB">
+        <nombre>Atikokan Municipal Airport</nombre>
+        <pais>China</pais>
+        <municipio>Atikokan</municipio>
+        <tasas moneda="Yuan Renminbi">2021</tasas>
+        <cuenta_bancaria>FR65 4857 3173 91PK HYKD S6QF U64</cuenta_bancaria>
+        <contacto>chartopdj@nasa.gov</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CIA">
+        <nombre>Ciampino–G. B. Pastine International Airport</nombre>
+        <pais>Ukraine</pais>
+        <municipio>Rome</municipio>
+        <tasas moneda="Hryvnia">1934</tasas>
+        <cuenta_bancaria>RS85 7222 7497 9262 7559 66</cuenta_bancaria>
+        <contacto>bleggondk@feedburner.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CBU">
+        <nombre>Cottbus-Drewitz Airport</nombre>
+        <pais>China</pais>
+        <municipio>Cottbus</municipio>
+        <tasas moneda="Yuan Renminbi">2606</tasas>
+        <cuenta_bancaria>GI75 BJXV VJ1V ACU8 MXDC BFR</cuenta_bancaria>
+        <contacto>mstranksdl@intel.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CKL">
+        <nombre>Chkalovskiy Air Base</nombre>
+        <pais>Peru</pais>
+        <municipio>Moscow</municipio>
+        <tasas moneda="Sol">4477</tasas>
+        <cuenta_bancaria>NL76 QPVA 5009 9077 66</cuenta_bancaria>
+        <contacto>jcaseldm@admin.ch</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KMF">
+        <nombre>Kamina Airport</nombre>
+        <pais>Oman</pais>
+        <municipio>Hoieti</municipio>
+        <tasas moneda="Rial">3020</tasas>
+        <cuenta_bancaria>FR55 0971 6990 54JV 67NK O5VE T28</cuenta_bancaria>
+        <contacto>oscholldn@archive.org</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TNP">
+        <nombre>Twentynine Palms Airport</nombre>
+        <pais>Papua New Guinea</pais>
+        <municipio>Twentynine Palms</municipio>
+        <tasas moneda="Kina">2951</tasas>
+        <cuenta_bancaria>FR38 6394 5474 02GX OYEH 2H9C 781</cuenta_bancaria>
+        <contacto>belliotdo@pbs.org</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HNN">
+        <nombre>Honinabi Airport</nombre>
+        <pais>China</pais>
+        <municipio>Honinabi</municipio>
+        <tasas moneda="Yuan Renminbi">2275</tasas>
+        <cuenta_bancaria>PT57 1435 3026 5215 3707 1156 1</cuenta_bancaria>
+        <contacto>yleghdp@vkontakte.ru</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FYV">
+        <nombre>Drake Field</nombre>
+        <pais>United States</pais>
+        <municipio>Fayetteville</municipio>
+        <tasas moneda="Dollar">2718</tasas>
+        <cuenta_bancaria>AT26 8832 4529 9240 5400</cuenta_bancaria>
+        <contacto>elawlingsdq@about.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HFN">
+        <nombre>Hornafjörður Airport</nombre>
+        <pais>Uzbekistan</pais>
+        <municipio>Höfn</municipio>
+        <tasas moneda="Som">4853</tasas>
+        <cuenta_bancaria>AT19 5258 4463 1343 6699</cuenta_bancaria>
+        <contacto>nscholedr@npr.org</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RNU">
+        <nombre>Ranau Airport</nombre>
+        <pais>China</pais>
+        <municipio>Ranau</municipio>
+        <tasas moneda="Yuan Renminbi">1477</tasas>
+        <cuenta_bancaria>FR14 4671 5928 33WS RYIS SC3W X23</cuenta_bancaria>
+        <contacto>ckailds@columbia.edu</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CCF">
+        <nombre>Carcassonne Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Carcassonne/Salvaza</municipio>
+        <tasas moneda="Baht">4862</tasas>
+        <cuenta_bancaria>BA47 5450 3233 0234 4735</cuenta_bancaria>
+        <contacto>vpendrichdt@geocities.jp</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JUH">
+        <nombre>Jiuhuashan Airport</nombre>
+        <pais>Bulgaria</pais>
+        <municipio>Chizhou</municipio>
+        <tasas moneda="Lev">1609</tasas>
+        <cuenta_bancaria>BA98 5965 5822 0805 1548</cuenta_bancaria>
+        <contacto>bgoosnelldu@ameblo.jp</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TAH">
+        <nombre>Tanna Airport</nombre>
+        <pais>Bangladesh</pais>
+        <municipio />
+        <tasas moneda="Taka">2636</tasas>
+        <cuenta_bancaria>DO69 S4GB 7859 8427 5140 4119 4742</cuenta_bancaria>
+        <contacto>ghartrickdv@over-blog.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BFU">
+        <nombre>Bengbu Airport</nombre>
+        <pais>China</pais>
+        <municipio>Bengbu</municipio>
+        <tasas moneda="Yuan Renminbi">3580</tasas>
+        <cuenta_bancaria>SM72 M415 2807 892I CHRX A8SE 6OX</cuenta_bancaria>
+        <contacto>wjanedw@reddit.com</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BRL">
+        <nombre>Southeast Iowa Regional Airport</nombre>
+        <pais>Czech Republic</pais>
+        <municipio>Burlington</municipio>
+        <tasas moneda="Koruna">2237</tasas>
+        <cuenta_bancaria>IS97 1959 3222 5811 7764 1349 33</cuenta_bancaria>
+        <contacto>lwhytockdx@globo.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="APK">
+        <nombre>Apataki Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Apataki</municipio>
+        <tasas moneda="Peso">4561</tasas>
+        <cuenta_bancaria>FR78 0339 9096 37AD 4JRX HPM8 Z57</cuenta_bancaria>
+        <contacto>ylishmunddy@chron.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KWL">
+        <nombre>Guilin Liangjiang International Airport</nombre>
+        <pais>Latvia</pais>
+        <municipio>Guilin City</municipio>
+        <tasas moneda="Euro">3928</tasas>
+        <cuenta_bancaria>ME83 5903 6928 1163 6857 38</cuenta_bancaria>
+        <contacto>abridgewaterdz@fema.gov</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TBI">
+        <nombre>New Bight Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Cat Island</municipio>
+        <tasas moneda="Rupiah">1849</tasas>
+        <cuenta_bancaria>GB10 BDQF 7523 2291 0912 27</cuenta_bancaria>
+        <contacto>lvalentee0@globo.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CDO">
+        <nombre>Cradock Airport</nombre>
+        <pais>China</pais>
+        <municipio>Cradock</municipio>
+        <tasas moneda="Yuan Renminbi">4073</tasas>
+        <cuenta_bancaria>GB46 YSNK 2118 3353 7717 00</cuenta_bancaria>
+        <contacto>jbateye1@paypal.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="UPV">
+        <nombre>Upavon Aerodrome</nombre>
+        <pais>Sweden</pais>
+        <municipio>Upavon</municipio>
+        <tasas moneda="Krona">1144</tasas>
+        <cuenta_bancaria>FR12 2565 5481 85AE FEYV XPNJ E28</cuenta_bancaria>
+        <contacto>jminkine2@google.com.au</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CDL">
+        <nombre>Candle 2 Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Candle</municipio>
+        <tasas moneda="Rupiah">2747</tasas>
+        <cuenta_bancaria>AL70 6855 0681 KSZT FF9Z OHXX B8RF</cuenta_bancaria>
+        <contacto>tspreulle3@yandex.ru</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MTF">
+        <nombre>Mizan Teferi Airport</nombre>
+        <pais>China</pais>
+        <municipio>Mizan Teferi</municipio>
+        <tasas moneda="Yuan Renminbi">4278</tasas>
+        <cuenta_bancaria>FR88 5886 2173 61AS 9VR2 FOK8 B12</cuenta_bancaria>
+        <contacto>fjewerse4@about.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NHF">
+        <nombre>New Halfa Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>New Halfa</municipio>
+        <tasas moneda="Baht">4476</tasas>
+        <cuenta_bancaria>CH74 9136 5ZQJ 9HOB 24HX R</cuenta_bancaria>
+        <contacto>bhaddackse5@amazon.co.jp</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WMH">
+        <nombre>Ozark Regional Airport</nombre>
+        <pais>Yemen</pais>
+        <municipio>Mountain Home</municipio>
+        <tasas moneda="Rial">3238</tasas>
+        <cuenta_bancaria>SM94 P228 3451 2330 WXWW 11TZ HG8</cuenta_bancaria>
+        <contacto>tvakhrushine6@oakley.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HII">
+        <nombre>Lake Havasu City Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Lake Havasu City</municipio>
+        <tasas moneda="Ruble">4821</tasas>
+        <cuenta_bancaria>FR23 7309 6775 58G6 O9GW TZMJ Z54</cuenta_bancaria>
+        <contacto>tbonneye7@photobucket.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GFF">
+        <nombre>Griffith Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Griffith</municipio>
+        <tasas moneda="Real">4761</tasas>
+        <cuenta_bancaria>PL95 3272 8302 8644 1130 8359 7798</cuenta_bancaria>
+        <contacto>swicharde8@fotki.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VGD">
+        <nombre>Vologda Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Vologda</municipio>
+        <tasas moneda="Rupiah">1663</tasas>
+        <cuenta_bancaria>AE87 6230 2183 1384 7427 042</cuenta_bancaria>
+        <contacto>sdabelle9@odnoklassniki.ru</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MBX">
+        <nombre>Maribor Airport</nombre>
+        <pais>China</pais>
+        <municipio />
+        <tasas moneda="Yuan Renminbi">4226</tasas>
+        <cuenta_bancaria>IT11 J405 2605 776N GAIF 0XWP 0BC</cuenta_bancaria>
+        <contacto>msydallea@amazon.co.uk</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RAN">
+        <nombre>Ravenna Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Ravenna</municipio>
+        <tasas moneda="Rupiah">1736</tasas>
+        <cuenta_bancaria>AZ89 QXLV NH8X WC46 D7E6 E1LT 46X2</cuenta_bancaria>
+        <contacto>aserjenteb@ameblo.jp</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LNQ">
+        <nombre>Loani Airport</nombre>
+        <pais>France</pais>
+        <municipio>Loani</municipio>
+        <tasas moneda="Euro">3378</tasas>
+        <cuenta_bancaria>GT51 GC1Y CR75 QHW0 0D1P JTMI JKSO</cuenta_bancaria>
+        <contacto>wwiginec@umn.edu</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MOQ">
+        <nombre>Morondava Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">2814</tasas>
+        <cuenta_bancaria>BA29 7195 6505 6796 4902</cuenta_bancaria>
+        <contacto>sgoldeed@xing.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OMC">
+        <nombre>Ormoc Airport</nombre>
+        <pais>China</pais>
+        <municipio>Ormoc City</municipio>
+        <tasas moneda="Yuan Renminbi">1034</tasas>
+        <cuenta_bancaria>FO32 6090 0489 6041 48</cuenta_bancaria>
+        <contacto>kcoilee@wiley.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ROR">
+        <nombre>Babelthuap Airport</nombre>
+        <pais>Honduras</pais>
+        <municipio>Babelthuap Island</municipio>
+        <tasas moneda="Lempira">2049</tasas>
+        <cuenta_bancaria>RO30 KJWA P3NI EWKO LSEU SYHG</cuenta_bancaria>
+        <contacto>tpiollief@taobao.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RCU">
+        <nombre>Area De Material Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Rio Cuarto</municipio>
+        <tasas moneda="Peso">1795</tasas>
+        <cuenta_bancaria>RS85 4077 4049 8904 4925 94</cuenta_bancaria>
+        <contacto>rswabeyeg@nba.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MDT">
+        <nombre>Harrisburg International Airport</nombre>
+        <pais>Serbia</pais>
+        <municipio>Harrisburg</municipio>
+        <tasas moneda="Dinar">4118</tasas>
+        <cuenta_bancaria>FR82 3081 4489 66QN CPGA FBVG U66</cuenta_bancaria>
+        <contacto>gbendleeh@amazon.co.uk</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LEE">
+        <nombre>Leesburg International Airport</nombre>
+        <pais>Nigeria</pais>
+        <municipio>Leesburg</municipio>
+        <tasas moneda="Naira">4441</tasas>
+        <cuenta_bancaria>AZ02 PBMT LHVK 7417 UBN0 R1IZ IA42</cuenta_bancaria>
+        <contacto>jplayfordei@google.fr</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CIP">
+        <nombre>Chipata Airport</nombre>
+        <pais>Canada</pais>
+        <municipio>Chipata</municipio>
+        <tasas moneda="Dollar">3717</tasas>
+        <cuenta_bancaria>ES02 5608 4463 7131 2719 4152</cuenta_bancaria>
+        <contacto>eyukhinej@addtoany.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PMG">
+        <nombre>Ponta Porã Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Ponta Porã</municipio>
+        <tasas moneda="Zloty">3908</tasas>
+        <cuenta_bancaria>AE94 7197 2900 7847 8800 595</cuenta_bancaria>
+        <contacto>clewerenzek@hhs.gov</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LDC">
+        <nombre>Lindeman Island Airport</nombre>
+        <pais>Ukraine</pais>
+        <municipio>Lindeman Island</municipio>
+        <tasas moneda="Hryvnia">4878</tasas>
+        <cuenta_bancaria>FR64 2931 3950 29IO Z7IW HNTY Y63</cuenta_bancaria>
+        <contacto>irowbreyel@yahoo.co.jp</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IVI">
+        <nombre>Viveros Island Airport</nombre>
+        <pais>Canada</pais>
+        <municipio>Isla Viveros</municipio>
+        <tasas moneda="Dollar">3361</tasas>
+        <cuenta_bancaria>FR97 0449 4975 51K9 RZHN 1BLP 142</cuenta_bancaria>
+        <contacto>cspringettem@sfgate.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BIM">
+        <nombre>South Bimini Airport</nombre>
+        <pais>Israel</pais>
+        <municipio>South Bimini</municipio>
+        <tasas moneda="Shekel">4833</tasas>
+        <cuenta_bancaria>NL39 DLGI 8766 5675 18</cuenta_bancaria>
+        <contacto>dmceloryen@illinois.edu</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ZCL">
+        <nombre>General Leobardo C. Ruiz International Airport</nombre>
+        <pais>Nepal</pais>
+        <municipio>Zacatecas</municipio>
+        <tasas moneda="Rupee">3472</tasas>
+        <cuenta_bancaria>HR56 5325 3811 3078 5996 8</cuenta_bancaria>
+        <contacto>lmckeeeo@google.de</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RAI">
+        <nombre>Praia International Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Praia</municipio>
+        <tasas moneda="Zloty">2680</tasas>
+        <cuenta_bancaria>GB36 EQJQ 7222 1495 5587 74</cuenta_bancaria>
+        <contacto>fcalafateep@posterous.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PSN">
+        <nombre>Palestine Municipal Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Palestine</municipio>
+        <tasas moneda="Baht">1633</tasas>
+        <cuenta_bancaria>HU47 7169 2823 7128 8970 7684 7097</cuenta_bancaria>
+        <contacto>jcroftseq@parallels.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NRL">
+        <nombre>North Ronaldsay Airport</nombre>
+        <pais>France</pais>
+        <municipio>North Ronaldsay</municipio>
+        <tasas moneda="Euro">4838</tasas>
+        <cuenta_bancaria>IL16 7270 1130 1750 8485 793</cuenta_bancaria>
+        <contacto>dgreystokeer@delicious.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FFM">
+        <nombre>Fergus Falls Municipal Airport - Einar Mickelson Field</nombre>
+        <pais>Czech Republic</pais>
+        <municipio>Fergus Falls</municipio>
+        <tasas moneda="Koruna">1811</tasas>
+        <cuenta_bancaria>FR65 4583 2674 37C6 DTBS ASQF W52</cuenta_bancaria>
+        <contacto>platheees@yolasite.com</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BHG">
+        <nombre>Brus Laguna Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Brus Laguna</municipio>
+        <tasas moneda="Peso">1145</tasas>
+        <cuenta_bancaria>GB79 DVEV 0196 5749 6918 35</cuenta_bancaria>
+        <contacto>gshyramet@stanford.edu</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KSZ">
+        <nombre>Kotlas Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Kotlas</municipio>
+        <tasas moneda="Rupiah">3125</tasas>
+        <cuenta_bancaria>RS46 5181 3884 8601 6263 29</cuenta_bancaria>
+        <contacto>jvarvelleu@t-online.de</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DSK">
+        <nombre>Dera Ismael Khan Airport</nombre>
+        <pais>Bulgaria</pais>
+        <municipio>Dera Ismael Khan</municipio>
+        <tasas moneda="Lev">3779</tasas>
+        <cuenta_bancaria>GR04 2771 2522 J5QA N4X8 BO6L YC5</cuenta_bancaria>
+        <contacto>rpellattev@google.co.uk</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KPO">
+        <nombre>Pohang Airport (G-815/K-3)</nombre>
+        <pais>United States</pais>
+        <municipio>Pohang</municipio>
+        <tasas moneda="Dollar">1994</tasas>
+        <cuenta_bancaria>FI88 5058 4967 5297 31</cuenta_bancaria>
+        <contacto>amazzeyew@a8.net</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ACR">
+        <nombre>Araracuara Airport</nombre>
+        <pais>Iran</pais>
+        <municipio>Araracuara</municipio>
+        <tasas moneda="Rial">3386</tasas>
+        <cuenta_bancaria>BH40 DAYA MURT 5IJO I4NA PS</cuenta_bancaria>
+        <contacto>epavicex@china.com.cn</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TMF">
+        <nombre>Thimarafushi Airport</nombre>
+        <pais>Ukraine</pais>
+        <municipio>Thimarafushi</municipio>
+        <tasas moneda="Hryvnia">4015</tasas>
+        <cuenta_bancaria>FR84 4924 9607 58K3 TPXX UIW8 H59</cuenta_bancaria>
+        <contacto>jclemencetey@nydailynews.com</contacto>
+        <anho_construccion>1970</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ERZ">
+        <nombre>Erzurum International Airport</nombre>
+        <pais>Dominican Republic</pais>
+        <municipio>Erzurum</municipio>
+        <tasas moneda="Peso">4217</tasas>
+        <cuenta_bancaria>MT51 ZKFL 8204 7NBA SYD8 0OGM KVN7 AHM</cuenta_bancaria>
+        <contacto>fkillcrossez@amazon.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KPY">
+        <nombre>Port Bailey Seaplane Base</nombre>
+        <pais>Guatemala</pais>
+        <municipio>Port Bailey</municipio>
+        <tasas moneda="Quetzal">4705</tasas>
+        <cuenta_bancaria>MD16 T63K Q9IG QAD7 EX3F NQOR</cuenta_bancaria>
+        <contacto>mwindramf0@tamu.edu</contacto>
+        <anho_construccion>1975</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SKV">
+        <nombre>St Catherine International Airport</nombre>
+        <pais>Serbia</pais>
+        <municipio />
+        <tasas moneda="Dinar">2298</tasas>
+        <cuenta_bancaria>BG15 RWSV 5707 13YX QN4J 6O</cuenta_bancaria>
+        <contacto>gespinaf1@sciencedirect.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TNM">
+        <nombre>Teniente Rodolfo Marsh Martin Base</nombre>
+        <pais>Cuba</pais>
+        <municipio>Isla Rey Jorge</municipio>
+        <tasas moneda="Peso">1314</tasas>
+        <cuenta_bancaria>SA95 20NX S2TB 5ZNV GKTJ KIM3</cuenta_bancaria>
+        <contacto>cberfootf2@wikimedia.org</contacto>
+        <anho_construccion>2013</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ABK">
+        <nombre>Kabri Dehar Airport</nombre>
+        <pais>Cuba</pais>
+        <municipio>Kabri Dehar</municipio>
+        <tasas moneda="Peso">2161</tasas>
+        <cuenta_bancaria>GL37 3726 2746 4799 90</cuenta_bancaria>
+        <contacto>slyokhinf3@163.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AMY">
+        <nombre>Ambatomainty Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio />
+        <tasas moneda="Real">2883</tasas>
+        <cuenta_bancaria>VG55 NBNU 3443 9369 3378 6310</cuenta_bancaria>
+        <contacto>ksixsmithf4@stanford.edu</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MAD">
+        <nombre>Adolfo Suárez Madrid–Barajas Airport</nombre>
+        <pais>United Kingdom</pais>
+        <municipio>Madrid</municipio>
+        <tasas moneda="Pound">4407</tasas>
+        <cuenta_bancaria>SA45 03YT 9SM5 ZWJI BGTF HC4W</cuenta_bancaria>
+        <contacto>twestnagef5@diigo.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="QCY">
+        <nombre>RAF Coningsby</nombre>
+        <pais>United States</pais>
+        <municipio>Coningsby</municipio>
+        <tasas moneda="Dollar">4917</tasas>
+        <cuenta_bancaria>LI86 1889 0ELH RWH3 1FEH I</cuenta_bancaria>
+        <contacto>pbattinf6@businesswire.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MHE">
+        <nombre>Mitchell Municipal Airport</nombre>
+        <pais>China</pais>
+        <municipio>Mitchell</municipio>
+        <tasas moneda="Yuan Renminbi">3804</tasas>
+        <cuenta_bancaria>HR58 8985 7331 3918 5467 7</cuenta_bancaria>
+        <contacto>carbucklef7@netvibes.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YMH">
+        <nombre>Mary's Harbour Airport</nombre>
+        <pais>Morocco</pais>
+        <municipio>Mary's Harbour</municipio>
+        <tasas moneda="Dirham">1942</tasas>
+        <cuenta_bancaria>FR39 5718 2963 08NQ 0SWV LAYQ B20</cuenta_bancaria>
+        <contacto>vdidballf8@nbcnews.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HKB">
+        <nombre>Healy Lake Airport</nombre>
+        <pais>Sweden</pais>
+        <municipio>Healy Lake</municipio>
+        <tasas moneda="Krona">2971</tasas>
+        <cuenta_bancaria>PL56 7226 4616 1887 9799 5689 5490</cuenta_bancaria>
+        <contacto>aglayzerf9@nba.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HIG">
+        <nombre>Highbury Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">1453</tasas>
+        <cuenta_bancaria>FI08 1476 1446 2763 07</cuenta_bancaria>
+        <contacto>stomesfa@un.org</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MAW">
+        <nombre>Malden Regional Airport</nombre>
+        <pais>Kuwait</pais>
+        <municipio>Malden</municipio>
+        <tasas moneda="Dinar">2502</tasas>
+        <cuenta_bancaria>TR53 0953 5CEN U0WM KU0O KC95 OB</cuenta_bancaria>
+        <contacto>crumminfb@weibo.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GSO">
+        <nombre>Piedmont Triad International Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Greensboro</municipio>
+        <tasas moneda="Ruble">2857</tasas>
+        <cuenta_bancaria>CR53 2226 1827 6103 3114 5</cuenta_bancaria>
+        <contacto>dweatherellfc@nps.gov</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BTT">
+        <nombre>Bettles Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Bettles</municipio>
+        <tasas moneda="Ruble">4973</tasas>
+        <cuenta_bancaria>AD53 5902 5204 3D8J H0MF R5HL</cuenta_bancaria>
+        <contacto>smourguefd@linkedin.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SGH">
+        <nombre>Springfield-Beckley Municipal Airport</nombre>
+        <pais>Czech Republic</pais>
+        <municipio>Springfield</municipio>
+        <tasas moneda="Koruna">1216</tasas>
+        <cuenta_bancaria>BG69 VCDC 0731 83M6 AJ7M QB</cuenta_bancaria>
+        <contacto>nwarefe@cbsnews.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RRM">
+        <nombre>Marromeu Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Marromeu</municipio>
+        <tasas moneda="Zloty">2767</tasas>
+        <cuenta_bancaria>AZ29 JLDV R4II OSF2 FQX6 GW5V JUNE</cuenta_bancaria>
+        <contacto>nespieff@quantcast.com</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SSK">
+        <nombre>Sturt Creek Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Sturt Creek</municipio>
+        <tasas moneda="Rupiah">1846</tasas>
+        <cuenta_bancaria>FR72 1686 3036 84BV C7AG U2R6 L98</cuenta_bancaria>
+        <contacto>tfoulstonefg@nydailynews.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SLB">
+        <nombre>Storm Lake Municipal Airport</nombre>
+        <pais>China</pais>
+        <municipio>Storm Lake</municipio>
+        <tasas moneda="Yuan Renminbi">2808</tasas>
+        <cuenta_bancaria>FR73 4610 3163 55TL Z0YN ES9F V25</cuenta_bancaria>
+        <contacto>asanzfh@wikipedia.org</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KSL">
+        <nombre>Kassala Airport</nombre>
+        <pais>Pakistan</pais>
+        <municipio>Kassala</municipio>
+        <tasas moneda="Rupee">3614</tasas>
+        <cuenta_bancaria>VG88 UVKM 0579 2513 4998 3592</cuenta_bancaria>
+        <contacto>rarmingerfi@guardian.co.uk</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YLM">
+        <nombre>Clinton Creek Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Clinton Creek Mine</municipio>
+        <tasas moneda="Yen">1382</tasas>
+        <cuenta_bancaria>LI09 4255 59EB VJXT CVLR Y</cuenta_bancaria>
+        <contacto>mlemonbyfj@w3.org</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GGG">
+        <nombre>East Texas Regional Airport</nombre>
+        <pais>Tanzania</pais>
+        <municipio>Longview</municipio>
+        <tasas moneda="Shilling">3402</tasas>
+        <cuenta_bancaria>TN09 2226 2009 9093 1964 0830</cuenta_bancaria>
+        <contacto>csesonsfk@vk.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YFA">
+        <nombre>Fort Albany Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Fort Albany</municipio>
+        <tasas moneda="Rupiah">1600</tasas>
+        <cuenta_bancaria>NO26 2417 9304 323</cuenta_bancaria>
+        <contacto>gparramfl@wunderground.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TGJ">
+        <nombre>Tiga Airport</nombre>
+        <pais>Nigeria</pais>
+        <municipio>Tiga</municipio>
+        <tasas moneda="Naira">4447</tasas>
+        <cuenta_bancaria>FR74 9436 2184 2454 ZNW7 MKQ0 U02</cuenta_bancaria>
+        <contacto>kcastardfm@a8.net</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IRG">
+        <nombre>Lockhart River Airport</nombre>
+        <pais>China</pais>
+        <municipio>Lockhart River</municipio>
+        <tasas moneda="Yuan Renminbi">1674</tasas>
+        <cuenta_bancaria>PS63 CEDF MXAY NYPB ED8C PU4R AHNH X</cuenta_bancaria>
+        <contacto>sbandtfn@chron.com</contacto>
+        <anho_construccion>1990</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VSA">
+        <nombre>Carlos Rovirosa Pérez International Airport</nombre>
+        <pais>Sweden</pais>
+        <municipio>Villahermosa</municipio>
+        <tasas moneda="Krona">2104</tasas>
+        <cuenta_bancaria>BH39 YSBB PLPO WTVB STVY KH</cuenta_bancaria>
+        <contacto>gdymondfo@printfriendly.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AFY">
+        <nombre>Afyon Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Afyonkarahisar</municipio>
+        <tasas moneda="Real">1396</tasas>
+        <cuenta_bancaria>FR96 4272 1797 56YB CQCY HSNI 417</cuenta_bancaria>
+        <contacto>mfairheadfp@sciencedirect.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ATZ">
+        <nombre>Assiut International Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Assiut</municipio>
+        <tasas moneda="Ruble">1295</tasas>
+        <cuenta_bancaria>MC41 8669 7576 73LU DHUM R0AK P59</cuenta_bancaria>
+        <contacto>aopiefq@admin.ch</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YFG">
+        <nombre>Fontanges Airport</nombre>
+        <pais>Sweden</pais>
+        <municipio>Fontanges</municipio>
+        <tasas moneda="Krona">2027</tasas>
+        <cuenta_bancaria>PK58 DGWI ORZR X6RF 6UAL JXUI</cuenta_bancaria>
+        <contacto>pdimitrovfr@yolasite.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PSC">
+        <nombre>Tri Cities Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Pasco</municipio>
+        <tasas moneda="Zloty">1296</tasas>
+        <cuenta_bancaria>FR58 0319 6224 10JL XCDI 4NX3 R37</cuenta_bancaria>
+        <contacto>mjeffersfs@jimdo.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BXN">
+        <nombre>Imsık Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio />
+        <tasas moneda="Peso">3465</tasas>
+        <cuenta_bancaria>FR93 5987 2863 79PK UIPQ ZTGG J42</cuenta_bancaria>
+        <contacto>bmasdingft@furl.net</contacto>
+        <anho_construccion>1964</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WOS">
+        <nombre>Wonsan Kalma International Airport</nombre>
+        <pais>China</pais>
+        <municipio>Wonsan</municipio>
+        <tasas moneda="Yuan Renminbi">1567</tasas>
+        <cuenta_bancaria>TR94 8168 6FJI VUH7 LIZQ LSCX HO</cuenta_bancaria>
+        <contacto>echitterfu@unblog.fr</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FRM">
+        <nombre>Fairmont Municipal Airport</nombre>
+        <pais>Thailand</pais>
+        <municipio>Fairmont</municipio>
+        <tasas moneda="Baht">1944</tasas>
+        <cuenta_bancaria>NO47 5739 8708 481</cuenta_bancaria>
+        <contacto>dmcreynoldsfv@altervista.org</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VIG">
+        <nombre>Juan Pablo Pérez Alfonso Airport</nombre>
+        <pais>Colombia</pais>
+        <municipio>El Vigía</municipio>
+        <tasas moneda="Peso">3913</tasas>
+        <cuenta_bancaria>FR23 3375 3469 72HE BI50 INLD T69</cuenta_bancaria>
+        <contacto>dollivierfw@yellowbook.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YEL">
+        <nombre>Elliot Lake Municipal Airport</nombre>
+        <pais>China</pais>
+        <municipio>Elliot Lake</municipio>
+        <tasas moneda="Yuan Renminbi">4496</tasas>
+        <cuenta_bancaria>FR31 7475 0510 88MX QQEG QWIJ O79</cuenta_bancaria>
+        <contacto>cjoneyfx@soundcloud.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AFL">
+        <nombre>Piloto Osvaldo Marques Dias Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Alta Floresta</municipio>
+        <tasas moneda="Peso">2573</tasas>
+        <cuenta_bancaria>FO28 3821 7439 7487 17</cuenta_bancaria>
+        <contacto>mfeehelyfy@cdc.gov</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TVI">
+        <nombre>Thomasville Regional Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Thomasville</municipio>
+        <tasas moneda="Euro">3823</tasas>
+        <cuenta_bancaria>FR44 3193 1515 73HX V49I 2PUZ X18</cuenta_bancaria>
+        <contacto>ebriantfz@behance.net</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PFB">
+        <nombre>Lauro Kurtz Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Passo Fundo</municipio>
+        <tasas moneda="Rupiah">1961</tasas>
+        <cuenta_bancaria>DO71 PRQH 9224 1839 4802 5154 3857</cuenta_bancaria>
+        <contacto>bwinningg0@ezinearticles.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FLB">
+        <nombre>Cangapara Airport</nombre>
+        <pais>Kazakhstan</pais>
+        <municipio>Floriano</municipio>
+        <tasas moneda="Tenge">2933</tasas>
+        <cuenta_bancaria>FR58 7825 0146 45AW UTNF 3PCV B92</cuenta_bancaria>
+        <contacto>jmelbertg1@vimeo.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CSU">
+        <nombre>Santa Cruz do Sul Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Santa Cruz Do Sul</municipio>
+        <tasas moneda="Yen">2192</tasas>
+        <cuenta_bancaria>GB35 YYPO 9217 1198 0828 86</cuenta_bancaria>
+        <contacto>vmowlamg2@booking.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GOC">
+        <nombre>Gora Airstrip</nombre>
+        <pais>Finland</pais>
+        <municipio>Gora</municipio>
+        <tasas moneda="Euro">2244</tasas>
+        <cuenta_bancaria>MR61 6025 8858 6464 7729 9342 543</cuenta_bancaria>
+        <contacto>lballeg3@hp.com</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NGA">
+        <nombre>Young Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio />
+        <tasas moneda="Euro">3599</tasas>
+        <cuenta_bancaria>IE97 HJME 6413 9133 4782 74</cuenta_bancaria>
+        <contacto>pscanterburyg4@hatena.ne.jp</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AXA">
+        <nombre>Clayton J Lloyd International Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>The Valley</municipio>
+        <tasas moneda="Peso">2552</tasas>
+        <cuenta_bancaria>SM12 P132 2578 373W CGLK IJAW I16</cuenta_bancaria>
+        <contacto>bludewigg5@sakura.ne.jp</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LYP">
+        <nombre>Faisalabad International Airport</nombre>
+        <pais>Norway</pais>
+        <municipio>Faisalabad</municipio>
+        <tasas moneda="Krone">2193</tasas>
+        <cuenta_bancaria>HR55 4473 7715 0648 3010 8</cuenta_bancaria>
+        <contacto>rbrittog6@ovh.net</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Nonoaí Airport</nombre>
+        <pais>China</pais>
+        <municipio>Nonoaí</municipio>
+        <tasas moneda="Yuan Renminbi">4316</tasas>
+        <cuenta_bancaria>MK26 6400 5GKJ TRA9 S55</cuenta_bancaria>
+        <contacto>bberkelyg7@hibu.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KTT">
+        <nombre>Kittilä Airport</nombre>
+        <pais>Sri Lanka</pais>
+        <municipio>Kittilä</municipio>
+        <tasas moneda="Rupee">1381</tasas>
+        <cuenta_bancaria>GR44 4286 534M K9PD VSC2 DPPE MT1</cuenta_bancaria>
+        <contacto>rprovestg8@icio.us</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DEZ">
+        <nombre>Deir ez-Zor Air Base</nombre>
+        <pais>Sweden</pais>
+        <municipio>Deir ez-Zor</municipio>
+        <tasas moneda="Krona">1678</tasas>
+        <cuenta_bancaria>AD89 6950 8545 GISK NYN7 LICR</cuenta_bancaria>
+        <contacto>ikimberg9@wikimedia.org</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YTL">
+        <nombre>Big Trout Lake Airport</nombre>
+        <pais>Estonia</pais>
+        <municipio>Big Trout Lake</municipio>
+        <tasas moneda="Euro">1435</tasas>
+        <cuenta_bancaria>TR62 8897 78PH X0DO PIJ7 VTPG MJ</cuenta_bancaria>
+        <contacto>mrichingsga@bigcartel.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MEO">
+        <nombre>Dare County Regional Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Manteo</municipio>
+        <tasas moneda="Yen">1150</tasas>
+        <cuenta_bancaria>FR89 5313 3646 08LJ JWOG AZOE A91</cuenta_bancaria>
+        <contacto>felcombgb@theglobeandmail.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YXC">
+        <nombre>Cranbrook/Canadian Rockies International Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Cranbrook</municipio>
+        <tasas moneda="Rupiah">3226</tasas>
+        <cuenta_bancaria>KZ43 252X S3CL DZCB RLBK</cuenta_bancaria>
+        <contacto>tkeyworthgc@ucoz.com</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CEO">
+        <nombre>Waco Kungo Airport</nombre>
+        <pais>Greenland</pais>
+        <municipio>Waco Kungo</municipio>
+        <tasas moneda="Krone">2290</tasas>
+        <cuenta_bancaria>DE38 2006 3890 1429 7158 36</cuenta_bancaria>
+        <contacto>smacilhenchgd@patch.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JBK">
+        <nombre>Berkley Municipal Heliport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Oakland</municipio>
+        <tasas moneda="Rupiah">3224</tasas>
+        <cuenta_bancaria>MK43 666D 4JVF XXCS X21</cuenta_bancaria>
+        <contacto>vdarleyge@unblog.fr</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="EPA">
+        <nombre>El Palomar Airport</nombre>
+        <pais>Turkmenistan</pais>
+        <municipio>El Palomar</municipio>
+        <tasas moneda="Manat">3646</tasas>
+        <cuenta_bancaria>SI18 5073 2561 8146 934</cuenta_bancaria>
+        <contacto>alichfieldgf@addtoany.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AHZ">
+        <nombre>Altiport L'Alpe d'Huez - Henri GIRAUD</nombre>
+        <pais>Sweden</pais>
+        <municipio>L'Alpe d'Huez</municipio>
+        <tasas moneda="Krona">4637</tasas>
+        <cuenta_bancaria>CY48 3910 7135 XJWB CGDI NB5V 2XUO</cuenta_bancaria>
+        <contacto>mdanilevichgg@twitter.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="WPC">
+        <nombre>Pincher Creek Airport</nombre>
+        <pais>Croatia</pais>
+        <municipio>Pincher Creek</municipio>
+        <tasas moneda="Kuna">3260</tasas>
+        <cuenta_bancaria>MT27 HGTL 2636 0P8G B4T8 7HVJ DNC1 CSW</cuenta_bancaria>
+        <contacto>ntwigleygh@guardian.co.uk</contacto>
+        <anho_construccion>1993</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BKI">
+        <nombre>Kota Kinabalu International Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Kota Kinabalu</municipio>
+        <tasas moneda="Peso">1827</tasas>
+        <cuenta_bancaria>AE07 5448 5013 1568 8365 186</cuenta_bancaria>
+        <contacto>lmechicgi@dmoz.org</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GTI">
+        <nombre>Flugplatz Güttin / Rügen</nombre>
+        <pais>Kenya</pais>
+        <municipio>Rügen</municipio>
+        <tasas moneda="Shilling">4773</tasas>
+        <cuenta_bancaria>FR85 1347 0773 15VF DSAV LZ9I Z13</cuenta_bancaria>
+        <contacto>vpilegj@google.es</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BVR">
+        <nombre>Esperadinha Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Brava Island</municipio>
+        <tasas moneda="Euro">4882</tasas>
+        <cuenta_bancaria>GT11 WZDY YFFK YPIF MUHY CQDB ZUFP</cuenta_bancaria>
+        <contacto>slaurentygk@imageshack.us</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CCY">
+        <nombre>Northeast Iowa Regional Airport</nombre>
+        <pais>France</pais>
+        <municipio>Charles City</municipio>
+        <tasas moneda="Euro">4274</tasas>
+        <cuenta_bancaria>DE02 2822 3353 6972 5447 47</cuenta_bancaria>
+        <contacto>wdaggettgl@4shared.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LDA">
+        <nombre>Malda Airport</nombre>
+        <pais>Canada</pais>
+        <municipio>Malda</municipio>
+        <tasas moneda="Dollar">4970</tasas>
+        <cuenta_bancaria>GT90 CBAF YMTW 6A40 XZT4 VV52 XGW5</cuenta_bancaria>
+        <contacto>ameharggm@paypal.com</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SMN">
+        <nombre>Lemhi County Airport</nombre>
+        <pais>Canada</pais>
+        <municipio>Salmon</municipio>
+        <tasas moneda="Dollar">3123</tasas>
+        <cuenta_bancaria>FR12 9737 6733 95DN ZMW2 QMEC U78</cuenta_bancaria>
+        <contacto>mgowinggn@netvibes.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="RYG">
+        <nombre>Moss Airport, Rygge</nombre>
+        <pais>Russia</pais>
+        <municipio>Oslo</municipio>
+        <tasas moneda="Ruble">1483</tasas>
+        <cuenta_bancaria>FR22 9408 7501 06MH RNGM WME8 N41</cuenta_bancaria>
+        <contacto>deverexgo@taobao.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HPG">
+        <nombre>Shennongjia Hongping Airport</nombre>
+        <pais>China</pais>
+        <municipio>Shennongjia</municipio>
+        <tasas moneda="Yuan Renminbi">1501</tasas>
+        <cuenta_bancaria>CZ82 2119 8473 4808 3292 8840</cuenta_bancaria>
+        <contacto>mbeeblegp@bloglines.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TSG">
+        <nombre>Tanacross Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Tanacross</municipio>
+        <tasas moneda="Yen">1839</tasas>
+        <cuenta_bancaria>NO35 6913 8198 299</cuenta_bancaria>
+        <contacto>bmacfaddengq@google.co.jp</contacto>
+        <anho_construccion>2005</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BTK">
+        <nombre>Bratsk Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Bratsk</municipio>
+        <tasas moneda="Rupiah">1545</tasas>
+        <cuenta_bancaria>IT40 L204 3647 709H 0K0Z 9CEJ HML</cuenta_bancaria>
+        <contacto>bjerdangr@pcworld.com</contacto>
+        <anho_construccion>2007</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VER">
+        <nombre>General Heriberto Jara International Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>Veracruz</municipio>
+        <tasas moneda="Tugrik">3519</tasas>
+        <cuenta_bancaria>LV79 GQPY 71CL UZPZ IJ8K D</cuenta_bancaria>
+        <contacto>gmccawleygs@sitemeter.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OBS">
+        <nombre>Aubenas-Ardèche Méridional Airport</nombre>
+        <pais>Syria</pais>
+        <municipio>Aubenas/Ardèche Méridional</municipio>
+        <tasas moneda="Pound">2318</tasas>
+        <cuenta_bancaria>BE07 5974 6148 7633</cuenta_bancaria>
+        <contacto>hmacandrewgt@marketwatch.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CSN">
+        <nombre>Carson Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Carson City</municipio>
+        <tasas moneda="Dollar">1126</tasas>
+        <cuenta_bancaria>FR51 3181 2552 91LH OVNJ CNEX K94</cuenta_bancaria>
+        <contacto>hventhamgu@vistaprint.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LAQ">
+        <nombre>La Abraq Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Al Bayda'</municipio>
+        <tasas moneda="Ruble">2186</tasas>
+        <cuenta_bancaria>EE88 6723 3545 5444 5126</cuenta_bancaria>
+        <contacto>mpoleykettgv@vkontakte.ru</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BNY">
+        <nombre>Bellona/Anua Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Anua</municipio>
+        <tasas moneda="Euro">1799</tasas>
+        <cuenta_bancaria>GT34 6753 DECC ZUJW JJZA 0B2D L1AD</cuenta_bancaria>
+        <contacto>jbrodwaygw@cargocollective.com</contacto>
+        <anho_construccion>1985</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TJN">
+        <nombre>Takume Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Takume</municipio>
+        <tasas moneda="Rupiah">2391</tasas>
+        <cuenta_bancaria>FR64 9209 4946 80IZ DZSF DQ9B I25</cuenta_bancaria>
+        <contacto>jmclugaishgx@barnesandnoble.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MLQ">
+        <nombre>Malalaua Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Malalaua</municipio>
+        <tasas moneda="Rupiah">3930</tasas>
+        <cuenta_bancaria>RO69 KBME PSQF D7UE ZL3R 9YQS</cuenta_bancaria>
+        <contacto>dreditgy@discuz.net</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ASH">
+        <nombre>Boire Field</nombre>
+        <pais>Venezuela</pais>
+        <municipio>Nashua</municipio>
+        <tasas moneda="Bolivar">1152</tasas>
+        <cuenta_bancaria>AL67 9193 2761 BYPM 0LBH 2CDT FWMP</cuenta_bancaria>
+        <contacto>ccescottigz@joomla.org</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KTI">
+        <nombre>Kratie Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Kratie</municipio>
+        <tasas moneda="Euro">1634</tasas>
+        <cuenta_bancaria>CY76 5278 0076 PVAB ZGOT 2JHP JORT</cuenta_bancaria>
+        <contacto>rsmallcombeh0@netlog.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GZA">
+        <nombre>Yasser Arafat International Airport</nombre>
+        <pais>Croatia</pais>
+        <municipio>Rafah</municipio>
+        <tasas moneda="Kuna">4881</tasas>
+        <cuenta_bancaria>AZ04 LORW IZR9 K4EE Z0KN HCZ0 YXI4</cuenta_bancaria>
+        <contacto>ztenbrugh1@dailymotion.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ERZ">
+        <nombre>Erzurum International Airport</nombre>
+        <pais>South Korea</pais>
+        <municipio>Erzurum</municipio>
+        <tasas moneda="Won">4111</tasas>
+        <cuenta_bancaria>AD89 7626 2085 HUEI 7HRU IAPO</cuenta_bancaria>
+        <contacto>hloughlanh2@netscape.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SBS">
+        <nombre>Steamboat Springs Bob Adams Field</nombre>
+        <pais>China</pais>
+        <municipio>Steamboat Springs</municipio>
+        <tasas moneda="Yuan Renminbi">3405</tasas>
+        <cuenta_bancaria>GB19 DOBD 7298 2869 8164 17</cuenta_bancaria>
+        <contacto>aottoh3@furl.net</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Novo Horizonte Airport</nombre>
+        <pais>Brazil</pais>
+        <municipio>Novo Horizonte</municipio>
+        <tasas moneda="Real">2977</tasas>
+        <cuenta_bancaria>SK66 2441 0230 2360 2393 2668</cuenta_bancaria>
+        <contacto>stedahlh4@wisc.edu</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AIH">
+        <nombre>Aiambak Airport</nombre>
+        <pais>China</pais>
+        <municipio>Aiambak</municipio>
+        <tasas moneda="Yuan Renminbi">2260</tasas>
+        <cuenta_bancaria>LI42 6508 3B8K B2JM LJHV Y</cuenta_bancaria>
+        <contacto>dovendenh5@redcross.org</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KNS">
+        <nombre>King Island Airport</nombre>
+        <pais>Japan</pais>
+        <municipio />
+        <tasas moneda="Yen">2469</tasas>
+        <cuenta_bancaria>MK47 7758 RWEC OTNA X33</cuenta_bancaria>
+        <contacto>matleyh6@cnbc.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VDR">
+        <nombre>Villa Dolores Airport</nombre>
+        <pais>Spain</pais>
+        <municipio>Villa Dolores</municipio>
+        <tasas moneda="Euro">3986</tasas>
+        <cuenta_bancaria>PK22 MKSD EJ2D SEPC YQKX DIKJ</cuenta_bancaria>
+        <contacto>fgrahlh7@hugedomains.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SSB">
+        <nombre>Christiansted Harbor Seaplane Base</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Christiansted St Croix</municipio>
+        <tasas moneda="Rupiah">3992</tasas>
+        <cuenta_bancaria>IE77 SGXD 7422 7623 7505 83</cuenta_bancaria>
+        <contacto>jlewcockh8@dedecms.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FOB">
+        <nombre>Fort Bragg Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Fort Bragg</municipio>
+        <tasas moneda="Yen">1029</tasas>
+        <cuenta_bancaria>FR57 7238 3793 90MP CEBU D17P I94</cuenta_bancaria>
+        <contacto>akornyakovh9@deliciousdays.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="0">
+        <nombre>Rio Paranaíba Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Rio Paranaíba</municipio>
+        <tasas moneda="Rupiah">1242</tasas>
+        <cuenta_bancaria>CZ03 0174 2341 3998 1826 1186</cuenta_bancaria>
+        <contacto>wbinneyha@is.gd</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FPR">
+        <nombre>St Lucie County International Airport</nombre>
+        <pais>Philippines</pais>
+        <municipio>Fort Pierce</municipio>
+        <tasas moneda="Peso">4983</tasas>
+        <cuenta_bancaria>MK14 488V NIKI NS4D X95</cuenta_bancaria>
+        <contacto>minghamhb@scientificamerican.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ALB">
+        <nombre>Albany International Airport</nombre>
+        <pais>Hungary</pais>
+        <municipio>Albany</municipio>
+        <tasas moneda="Forint">2335</tasas>
+        <cuenta_bancaria>FR29 7726 6902 37T7 UTQZ L4PO Z13</cuenta_bancaria>
+        <contacto>sbuttinghc@globo.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YKO">
+        <nombre>Hakkari Yüksekova Airport</nombre>
+        <pais>Iraq</pais>
+        <municipio>Hakkari</municipio>
+        <tasas moneda="Dinar">2840</tasas>
+        <cuenta_bancaria>FR92 8696 9162 37GR QGHT HH1V H59</cuenta_bancaria>
+        <contacto>llanyonhd@tmall.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LGW">
+        <nombre>London Gatwick Airport</nombre>
+        <pais>Mongolia</pais>
+        <municipio>London</municipio>
+        <tasas moneda="Tugrik">1965</tasas>
+        <cuenta_bancaria>FR54 0224 8999 65OA YSIH EDSQ C64</cuenta_bancaria>
+        <contacto>aspitellhe@sohu.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AYD">
+        <nombre>Alroy Downs Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Alroy Downs</municipio>
+        <tasas moneda="Dollar">2013</tasas>
+        <cuenta_bancaria>PK21 RBBZ JU3S VTUT GEMO 9FHZ</cuenta_bancaria>
+        <contacto>zkabischhf@google.pl</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TOT">
+        <nombre>Totness Airport</nombre>
+        <pais>China</pais>
+        <municipio>Totness</municipio>
+        <tasas moneda="Yuan Renminbi">3990</tasas>
+        <cuenta_bancaria>SA47 86H0 S2K7 ZEXM DKJJ AFRQ</cuenta_bancaria>
+        <contacto>estraughanhg@mediafire.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="OSG">
+        <nombre>Ossima Airport</nombre>
+        <pais>Zambia</pais>
+        <municipio>Ossima</municipio>
+        <tasas moneda="Kwacha">1613</tasas>
+        <cuenta_bancaria>AE23 0415 5895 6363 1363 586</cuenta_bancaria>
+        <contacto>aabbatihh@canalblog.com</contacto>
+        <anho_construccion>2010</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CVJ">
+        <nombre>General Mariano Matamoros Airport</nombre>
+        <pais>Russia</pais>
+        <municipio />
+        <tasas moneda="Ruble">3313</tasas>
+        <cuenta_bancaria>GB84 IDLF 6423 9068 1364 76</cuenta_bancaria>
+        <contacto>cmourguehi@delicious.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VEL">
+        <nombre>Vernal Regional Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Vernal</municipio>
+        <tasas moneda="Rupiah">3105</tasas>
+        <cuenta_bancaria>KW41 LOWI ZCQZ P7BH EIKA Y0CB ZXSF YP</cuenta_bancaria>
+        <contacto>ebeamenthj@cdbaby.com</contacto>
+        <anho_construccion>2004</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TON">
+        <nombre>Tonu Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Tonu</municipio>
+        <tasas moneda="Zloty">3427</tasas>
+        <cuenta_bancaria>SK39 8984 3779 6820 6002 9295</cuenta_bancaria>
+        <contacto>frainbirdhk@theguardian.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HEB">
+        <nombre>Hinthada Airport</nombre>
+        <pais>China</pais>
+        <municipio>Hinthada</municipio>
+        <tasas moneda="Yuan Renminbi">4030</tasas>
+        <cuenta_bancaria>IS80 5013 0813 9901 0618 1682 33</cuenta_bancaria>
+        <contacto>ebecarishl@google.cn</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DON">
+        <nombre>Dos Lagunas Airport</nombre>
+        <pais>Croatia</pais>
+        <municipio>Dos Lagunas</municipio>
+        <tasas moneda="Kuna">3960</tasas>
+        <cuenta_bancaria>RS63 4744 1984 3563 8220 50</cuenta_bancaria>
+        <contacto>htivenanhm@oaic.gov.au</contacto>
+        <anho_construccion>2000</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DOE">
+        <nombre>Djumu-Djomoe Airport</nombre>
+        <pais>China</pais>
+        <municipio>Djumu-Djomoe</municipio>
+        <tasas moneda="Yuan Renminbi">1059</tasas>
+        <cuenta_bancaria>PT08 0869 8718 4222 8007 3231 8</cuenta_bancaria>
+        <contacto>bmatthiushn@weather.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TNR">
+        <nombre>Ivato Airport</nombre>
+        <pais>Mexico</pais>
+        <municipio>Antananarivo</municipio>
+        <tasas moneda="Peso">3289</tasas>
+        <cuenta_bancaria>LU62 997O FVPF F8YB EUGN</cuenta_bancaria>
+        <contacto>lquinceeho@homestead.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ODH">
+        <nombre>RAF Odiham</nombre>
+        <pais>Vietnam</pais>
+        <municipio>Odiham</municipio>
+        <tasas moneda="Dong">4889</tasas>
+        <cuenta_bancaria>GE17 QG53 1730 7019 3605 31</cuenta_bancaria>
+        <contacto>uhowgillhp@comcast.net</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BGP">
+        <nombre>Bongo Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Bongo</municipio>
+        <tasas moneda="Rupiah">3563</tasas>
+        <cuenta_bancaria>VG79 GRRX 5075 7153 1371 5260</cuenta_bancaria>
+        <contacto>lwallbridgehq@arizona.edu</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KDI">
+        <nombre>Wolter Monginsidi Airport</nombre>
+        <pais>Greece</pais>
+        <municipio>Kendari-Celebes Island</municipio>
+        <tasas moneda="Euro">4004</tasas>
+        <cuenta_bancaria>FR19 8046 0830 37MD IWMQ VS1J 742</cuenta_bancaria>
+        <contacto>wmulhollandhr@dyndns.org</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AKX">
+        <nombre>Aktobe Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Aktyubinsk</municipio>
+        <tasas moneda="Ruble">1178</tasas>
+        <cuenta_bancaria>FR82 6722 6070 86WA 0NF2 HDH4 K80</cuenta_bancaria>
+        <contacto>dmatskevichhs@a8.net</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="JLN">
+        <nombre>Joplin Regional Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Joplin</municipio>
+        <tasas moneda="Ruble">3743</tasas>
+        <cuenta_bancaria>BR32 0176 5831 1788 7927 0162 359M T</cuenta_bancaria>
+        <contacto>ubowkleyht@omniture.com</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ELO">
+        <nombre>El Dorado Airport</nombre>
+        <pais>Palestinian Territory</pais>
+        <municipio>El Dorado</municipio>
+        <tasas moneda="Shekel">2024</tasas>
+        <cuenta_bancaria>EE48 1842 6582 8466 9293</cuenta_bancaria>
+        <contacto>jwillehu@hibu.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MWG">
+        <nombre>Marawaka Airport</nombre>
+        <pais>China</pais>
+        <municipio>Marawaka</municipio>
+        <tasas moneda="Yuan Renminbi">1145</tasas>
+        <cuenta_bancaria>KZ46 314I XU0W BOIZ IL1N</cuenta_bancaria>
+        <contacto>lduguidhv@bravesites.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="IZO">
+        <nombre>Izumo Airport</nombre>
+        <pais>France</pais>
+        <municipio>Izumo</municipio>
+        <tasas moneda="Euro">1278</tasas>
+        <cuenta_bancaria>CR95 6226 2569 6970 1583 2</cuenta_bancaria>
+        <contacto>kshrimptonhw@wordpress.org</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GBA">
+        <nombre>Cotswold Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Kemble</municipio>
+        <tasas moneda="Zloty">4718</tasas>
+        <cuenta_bancaria>FR41 6124 3174 052U R8EN IFXS Z61</cuenta_bancaria>
+        <contacto>mcheneryhx@columbia.edu</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="VIY">
+        <nombre>Villacoublay-Vélizy (BA 107) Air Base</nombre>
+        <pais>Czech Republic</pais>
+        <municipio>Villacoublay/Vélizy</municipio>
+        <tasas moneda="Koruna">1442</tasas>
+        <cuenta_bancaria>MT78 BXJI 2580 8CDG SRTS 8AWN MDTX GCD</cuenta_bancaria>
+        <contacto>fsunockhy@addthis.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="DAG">
+        <nombre>Barstow Daggett Airport</nombre>
+        <pais>China</pais>
+        <municipio>Daggett</municipio>
+        <tasas moneda="Yuan Renminbi">3238</tasas>
+        <cuenta_bancaria>FR65 3201 2935 13UR 6R0E JHK6 W53</cuenta_bancaria>
+        <contacto>ncoshamhz@sina.com.cn</contacto>
+        <anho_construccion>2009</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ZBM">
+        <nombre>Bromont (Roland Desourdy) Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Bromont</municipio>
+        <tasas moneda="Ruble">4722</tasas>
+        <cuenta_bancaria>VG07 DHQJ 7067 7684 0739 7098</cuenta_bancaria>
+        <contacto>amiskeni0@msu.edu</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HYD">
+        <nombre>Rajiv Gandhi International Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Hyderabad</municipio>
+        <tasas moneda="Ruble">4082</tasas>
+        <cuenta_bancaria>HR43 1993 3774 3255 5865 0</cuenta_bancaria>
+        <contacto>dburkhilli1@themeforest.net</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="LYO">
+        <nombre>Lyons-Rice County Municipal Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio>Lyons</municipio>
+        <tasas moneda="Euro">1834</tasas>
+        <cuenta_bancaria>EE75 1878 0342 4827 5296</cuenta_bancaria>
+        <contacto>idoggi2@lulu.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HUM">
+        <nombre>Houma Terrebonne Airport</nombre>
+        <pais>China</pais>
+        <municipio>Houma</municipio>
+        <tasas moneda="Yuan Renminbi">4905</tasas>
+        <cuenta_bancaria>FR33 8233 9273 125V T1ZV I5IR J71</cuenta_bancaria>
+        <contacto>nbroeki3@bing.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CEY">
+        <nombre>Kyle Oakley Field</nombre>
+        <pais>Canada</pais>
+        <municipio>Murray</municipio>
+        <tasas moneda="Dollar">4477</tasas>
+        <cuenta_bancaria>LV69 JVAQ B1IK QCFR LEOH B</cuenta_bancaria>
+        <contacto>qseamarkei4@amazon.de</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NVN">
+        <nombre>Nervino Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Beckwourth</municipio>
+        <tasas moneda="Rupiah">4751</tasas>
+        <cuenta_bancaria>MC63 6351 9528 07UL XYAO AKOT P04</cuenta_bancaria>
+        <contacto>jsawardi5@salon.com</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ATD">
+        <nombre>Uru Harbour Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Atoifi</municipio>
+        <tasas moneda="Zloty">3195</tasas>
+        <cuenta_bancaria>HU18 5641 7960 2055 7389 7825 5347</cuenta_bancaria>
+        <contacto>wlanfranconii6@geocities.com</contacto>
+        <anho_construccion>2003</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="FSD">
+        <nombre>Joe Foss Field Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Sioux Falls</municipio>
+        <tasas moneda="Rupiah">2363</tasas>
+        <cuenta_bancaria>AE93 9610 5264 4962 5560 825</cuenta_bancaria>
+        <contacto>bburwoodi7@sogou.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MUO">
+        <nombre>Mountain Home Air Force Base</nombre>
+        <pais>France</pais>
+        <municipio>Mountain Home</municipio>
+        <tasas moneda="Euro">4015</tasas>
+        <cuenta_bancaria>FR81 8288 6730 88XY IAGF TEXR V06</cuenta_bancaria>
+        <contacto>zconveryi8@constantcontact.com</contacto>
+        <anho_construccion>1998</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TKY">
+        <nombre>Turkey Creek Airport</nombre>
+        <pais>China</pais>
+        <municipio>Turkey Creek</municipio>
+        <tasas moneda="Yuan Renminbi">1328</tasas>
+        <cuenta_bancaria>PL10 1813 0146 6292 1812 0862 1043</cuenta_bancaria>
+        <contacto>rthistletoni9@thetimes.co.uk</contacto>
+        <anho_construccion>1996</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AOA">
+        <nombre>Aroa Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Agevairu</municipio>
+        <tasas moneda="Dollar">2690</tasas>
+        <cuenta_bancaria>CR44 2103 2332 0700 3219 0</cuenta_bancaria>
+        <contacto>avisickia@163.com</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MPM">
+        <nombre>Maputo Airport</nombre>
+        <pais>China</pais>
+        <municipio>Maputo</municipio>
+        <tasas moneda="Yuan Renminbi">2887</tasas>
+        <cuenta_bancaria>DK56 5981 0523 5859 81</cuenta_bancaria>
+        <contacto>kbiltib@hugedomains.com</contacto>
+        <anho_construccion>1987</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AEB">
+        <nombre>Baise Youjiang Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Baise</municipio>
+        <tasas moneda="Rupiah">4591</tasas>
+        <cuenta_bancaria>IS82 5685 4340 6303 6695 3485 50</cuenta_bancaria>
+        <contacto>iyankinic@usda.gov</contacto>
+        <anho_construccion>1991</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BHQ">
+        <nombre>Broken Hill Airport</nombre>
+        <pais>Georgia</pais>
+        <municipio>Broken Hill</municipio>
+        <tasas moneda="Lari">3826</tasas>
+        <cuenta_bancaria>FR96 7719 2050 80WZ S0YI GM92 R94</cuenta_bancaria>
+        <contacto>bbentoteid@nhs.uk</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="HGH">
+        <nombre>Hangzhou Xiaoshan International Airport</nombre>
+        <pais>United States</pais>
+        <municipio>Hangzhou</municipio>
+        <tasas moneda="Dollar">3543</tasas>
+        <cuenta_bancaria>MK87 294S 62RW CBEU Q59</cuenta_bancaria>
+        <contacto>mcoronadoie@sohu.com</contacto>
+        <anho_construccion>2012</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MLN">
+        <nombre>Melilla Airport</nombre>
+        <pais>Indonesia</pais>
+        <municipio>Melilla</municipio>
+        <tasas moneda="Rupiah">1225</tasas>
+        <cuenta_bancaria>FR69 9505 0863 49RC AKEC BIKN A10</cuenta_bancaria>
+        <contacto>dculshewif@posterous.com</contacto>
+        <anho_construccion>1986</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="YXY">
+        <nombre>Whitehorse / Erik Nielsen International Airport</nombre>
+        <pais>Norway</pais>
+        <municipio>Whitehorse</municipio>
+        <tasas moneda="Krone">1134</tasas>
+        <cuenta_bancaria>SI04 5191 9690 8989 273</cuenta_bancaria>
+        <contacto>npigneig@netlog.com</contacto>
+        <anho_construccion>1995</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="AEG">
+        <nombre>Aek Godang Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Padang Sidempuan-Sumatra Island</municipio>
+        <tasas moneda="Ruble">3322</tasas>
+        <cuenta_bancaria>FI12 9408 6250 3179 37</cuenta_bancaria>
+        <contacto>smcroryih@skyrock.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="NAW">
+        <nombre>Narathiwat Airport</nombre>
+        <pais>Poland</pais>
+        <municipio />
+        <tasas moneda="Zloty">4982</tasas>
+        <cuenta_bancaria>FR93 0973 3148 381V TW3E M6JW A18</cuenta_bancaria>
+        <contacto>cheinzii@mozilla.com</contacto>
+        <anho_construccion>2011</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="XCO">
+        <nombre>Colac Airport</nombre>
+        <pais>Portugal</pais>
+        <municipio />
+        <tasas moneda="Euro">4633</tasas>
+        <cuenta_bancaria>LI11 3406 37XE FBNH HGLY 1</cuenta_bancaria>
+        <contacto>ineweij@wikipedia.org</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SCE">
+        <nombre>University Park Airport</nombre>
+        <pais>Greenland</pais>
+        <municipio>State College</municipio>
+        <tasas moneda="Krone">4063</tasas>
+        <cuenta_bancaria>FR15 9313 1219 22QM MMEY 80DC D00</cuenta_bancaria>
+        <contacto>gmendesik@godaddy.com</contacto>
+        <anho_construccion>1992</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BGJ">
+        <nombre>Borgarfjörður eystri Airport</nombre>
+        <pais>China</pais>
+        <municipio>Borgarfjörður eystri</municipio>
+        <tasas moneda="Yuan Renminbi">2260</tasas>
+        <cuenta_bancaria>FR88 3594 0731 82QF RBDJ HP1M Q77</cuenta_bancaria>
+        <contacto>rcheineil@whitehouse.gov</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="ACK">
+        <nombre>Nantucket Memorial Airport</nombre>
+        <pais>Norway</pais>
+        <municipio>Nantucket</municipio>
+        <tasas moneda="Krone">2023</tasas>
+        <cuenta_bancaria>HR98 3664 6745 4769 3529 9</cuenta_bancaria>
+        <contacto>teytelim@xrea.com</contacto>
+        <anho_construccion>2006</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="CAM">
+        <nombre>Camiri Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Camiri</municipio>
+        <tasas moneda="Yen">1583</tasas>
+        <cuenta_bancaria>LI26 0039 6SHY FDNW BV8B 2</cuenta_bancaria>
+        <contacto>jmongenotin@eventbrite.com</contacto>
+        <anho_construccion>2002</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="GUY">
+        <nombre>Guymon Municipal Airport</nombre>
+        <pais>Slovenia</pais>
+        <municipio>Guymon</municipio>
+        <tasas moneda="Euro">3681</tasas>
+        <cuenta_bancaria>AE67 0003 5912 1169 1562 690</cuenta_bancaria>
+        <contacto>mvassio@dailymotion.com</contacto>
+        <anho_construccion>2013</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="BKN">
+        <nombre>Balkanabat Airport</nombre>
+        <pais>Spain</pais>
+        <municipio>Balkanabat</municipio>
+        <tasas moneda="Euro">3397</tasas>
+        <cuenta_bancaria>BA55 5752 2081 2003 2280</cuenta_bancaria>
+        <contacto>bmichallatip@cdc.gov</contacto>
+        <anho_construccion>1987</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TYE">
+        <nombre>Tyonek Airport</nombre>
+        <pais>Russia</pais>
+        <municipio>Tyonek</municipio>
+        <tasas moneda="Ruble">3042</tasas>
+        <cuenta_bancaria>AD89 0490 0900 K6RL ISOX NSSC</cuenta_bancaria>
+        <contacto>tgibbiq@ucla.edu</contacto>
+        <anho_construccion>1999</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TIV">
+        <nombre>Tivat Airport</nombre>
+        <pais>Argentina</pais>
+        <municipio>Tivat</municipio>
+        <tasas moneda="Peso">4725</tasas>
+        <cuenta_bancaria>VG69 GLFV 1461 1220 2220 6049</cuenta_bancaria>
+        <contacto>btreleaseir@psu.edu</contacto>
+        <anho_construccion>1997</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MQP">
+        <nombre>Kruger Mpumalanga International Airport</nombre>
+        <pais>Poland</pais>
+        <municipio>Mpumalanga</municipio>
+        <tasas moneda="Zloty">3616</tasas>
+        <cuenta_bancaria>HR86 3790 3552 4341 0542 8</cuenta_bancaria>
+        <contacto>tlittleis@blogspot.com</contacto>
+        <anho_construccion>2008</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="MWX">
+        <nombre>Muan International Airport</nombre>
+        <pais>Somalia</pais>
+        <municipio>Piseo-ri (Muan)</municipio>
+        <tasas moneda="Shilling">4601</tasas>
+        <cuenta_bancaria>AZ96 ESEQ 2H8F QQ0C HH98 W00J MXYM</cuenta_bancaria>
+        <contacto>etonksit@google.com.hk</contacto>
+        <anho_construccion>1984</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="KCF">
+        <nombre>Kadanwari Airport</nombre>
+        <pais>Greece</pais>
+        <municipio>Kadanwari</municipio>
+        <tasas moneda="Euro">1653</tasas>
+        <cuenta_bancaria>DE39 7010 8296 1292 9655 23</cuenta_bancaria>
+        <contacto>bmichelliu@csmonitor.com</contacto>
+        <anho_construccion>2001</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PHL">
+        <nombre>Philadelphia International Airport</nombre>
+        <pais>Japan</pais>
+        <municipio>Philadelphia</municipio>
+        <tasas moneda="Yen">3593</tasas>
+        <cuenta_bancaria>MR73 0386 6539 0638 1065 0507 828</cuenta_bancaria>
+        <contacto>dcerseyiv@mysql.com</contacto>
+        <anho_construccion>2013</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="PRN">
+        <nombre>Priština International Airport</nombre>
+        <pais>Yemen</pais>
+        <municipio>Prishtina</municipio>
+        <tasas moneda="Rial">3066</tasas>
+        <cuenta_bancaria>FR47 5719 5559 19FL 1M9H SYH2 321</cuenta_bancaria>
+        <contacto>sdonatiw@phpbb.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="TOB">
+        <nombre>Gamal Abdel Nasser Airport</nombre>
+        <pais>Vietnam</pais>
+        <municipio>Tobruk</municipio>
+        <tasas moneda="Dong">1047</tasas>
+        <cuenta_bancaria>SI32 3144 8039 6643 899</cuenta_bancaria>
+        <contacto>lfritzerix@businessinsider.com</contacto>
+        <anho_construccion>1994</anho_construccion>
+    </aeropuerto>
+    <aeropuerto codigo="SIE">
+        <nombre>Sines Airport</nombre>
+        <pais>Poland</pais>
+        <municipio />
+        <tasas moneda="Zloty">2697</tasas>
+        <cuenta_bancaria>AD92 9998 0808 HGNQ DPJD 1JZO</cuenta_bancaria>
+        <contacto>tveeliy@cbsnews.com</contacto>
+        <anho_construccion>1987</anho_construccion>
+    </aeropuerto>
+</aeropuertos>

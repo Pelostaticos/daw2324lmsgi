@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- CANAL DE NOTICIAS SEMANA SANTA DE ANDALUCIA -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+
+   <!-- Elementos obligartorios de un canal Atom -->
+   <title>Canal de noticias "El Saetero"</title>
+   <id>http://www.elsaetero.daw</id>
+   <updated>2024-02-28T14:10:00+01:00</updated>
+   <!-- Elementos recomendados de un canal Atom -->
+   <link rel="self" type="application/atom+xml" href="feed/canal.atom" />
+   <link rel="alternate" type="text/html" href="http://www.elsaetero.daw" />
+   <author>
+      <name>Sergio García Butrón</name>
+      <email>sergio.garciabutron@bitgarcia.es</email>
+      <uri>http://bitgarcia.es</uri>
+   </author>
+   <!-- Elementos opcionales de un canal atom para datos extras solicitados -->
+   <category term="Noticias/"/>
+   <logo>https://zarasanta.com/1076-large_default/llamador-para-trono-ll-700.jpg</logo>
+   <rights>Creative Commons</rights>
+   <subtitle>Canal de noticias de semana santa en andaluz</subtitle>
+
+   <!-- LISTADO DE NOTICIAS SOLICITADAS -->
+   <!-- 1ªNOTICIA: Así será la Semana Santa de Sevilla 2024 -->
+   <entry>
+      <!-- Aqui pongo los elementos obligatorios para una entrada atom -->
+      <title>Así será la Semana Santa de Sevilla 2024: todos los cambios y modificaciones</title>
+      <id>https://www.diariodesevilla.es</id>
+      <updated>2024-02-28T14:30:00+01:00</updated>
+      <!-- Aqui pongo los elementos recomendados para una entrada atom -->
+      <link rel="alternate" type="text/html" href="https://www.diariodesevilla.es/semana_santa/asi-sera-semana-santa-2024-cambios-modificaciones_0_1861315414.html"/>
+      <link rel="alternate" type="image/jpeg" href="https://www.diariodesevilla.es/2023/12/28/semana_santa/Urna-discurre-Avenida-San-Francisco_1861324921_200154926_667x375.jpg" length="1000500" />
+      <author>
+         <name>Manuel Lamprea</name>
+         <email>manuel.lamprea@diariodesevilla.es</email>
+         <uri>https://www.diariodesevilla.es</uri>
+      </author>
+      <summary>Cambios y modificaciones que afectarán a la Semana Santa en 2024</summary>
+      <!-- Aqui pongo los elementos opcionales para la entrada atom 
+      correspondiente a datos que se solicitaro para la actividad anterior-->
+      <category term="General Sevilla" />
+      <published>2023-12-28T21:55:00+01:00</published>
+   </entry>
+
+   <!-- 2ªNOTICIA: web externa relacionada con las imágenes de la Semana Santa Andaluza -->
+   <!-- IslaPasion es un portal cofrade mi ciudad natal en San Fernando (Cádiz) -->   
+   <entry>
+      <!-- Aquí pongo los elementos obligatorios de una entrada atom -->
+      <title>Hoy saldrá en Vía-Crucis el Señor de Columna</title>
+      <id>https://islapasion.net</id>
+      <updated>2024-02-28T14:50:00+01:00</updated>
+      <!-- Aquí pongo los elementos recomendados para una entrada atom -->
+      <link rel="alternate" type="text/html" href="https://islapasion.net/hoy-saldra-en-via-crucis-el-senor-de-columna/"/>
+      <link rel="alternate" type="image/jpeg" href="https://islapasion.net/wp-content/uploads/2024/02/portada1000207232-800x535.jpg" length="1712000" />
+      <author>
+         <name>Isla Pasión</name>
+         <email>contacto@islapasion.net</email>
+         <uri>https://islapasion.net</uri>
+      </author>
+      <summary>Vía-Crucis el Señor Atado y Flagelado a la Columna por las calles de San Fernando (Cádiz)</summary>
+      <!-- Aqui pongo los elementos opcionales para la entrada atom 
+      correspondiente a datos que se solicitaro para la actividad anterior-->
+      <category term="hermandades" />
+      <published>2024-02-23T09:36:00+01:00</published>
+   </entry>
+
+   <!-- 3ªNOTICIA: web externa relacionada con hermandades de Andalucia -->
+   <!-- Perfil Pinterest sobre la semana santa andaluza -->
+   <entry>
+      <!-- Aquí pongo los elementos obnligatorios de una entrada atom -->
+      <title>Semana Santa en foto</title>
+      <id>https://www.pinteres.es</id>
+      <updated>2024-02-28T14:40:00+01:00</updated>
+      <!-- Aquí pongo los elementos recomendados para una entrada atom -->
+      <link rel="alternate" type="text/html" href="https://www.pinterest.es/imoya25/semana-santa-en-andalucia/"/>
+      <link rel="alternate" type="image/jpeg" href="https://i.pinimg.com/736x/21/68/e1/2168e1f2c41eca329f1b2a3fdeba738f.jpg" length="2835072" />
+      <author>
+         <name>Isabel M. C.</name>
+         <email>imoya25@pinteres.es</email>
+         <uri>https://www.pinteres.es</uri>
+      </author>
+      <summary>Colección de fotos de Isabel M.C en Pinterest de la Semena Santa</summary>
+      <!-- Aqui pongo los elementos opcionales para la entrada atom 
+      correspondiente a datos que se solicitaro para la actividad anterior-->
+      <published>2023-04-07T17:36:00+01:00</published>      
+   </entry>
+</feed>

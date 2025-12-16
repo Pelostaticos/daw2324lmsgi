@@ -1,0 +1,80 @@
+/* POR DEFECTO */
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* VARIABLES DE ESTILO */
+:root {
+    --altura-encabezado: 110px;
+    --padding-encabezado: 10px;
+    --padding-canales: 15px;
+    --size-logo: 96px;
+    --size-canales: 12vw;
+}
+
+/* ESTILOS PARA WEB SEMANA SANTA */
+.contenedor {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+header {
+    min-height: calc(var(--altura-encabezado)*0.75);
+    padding: var(--padding-encabezado);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    background-color: white;
+}
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+footer {
+    height: calc(var(--altura-encabezado) * 0.5);
+    width: 100vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.producido {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+.canales {
+    margin: var(--padding-canales);
+    width: var(--size-canales);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+/* ESTILOS PARA CONTENIDOS DE LA WEB */
+img.logotipo {
+    width: var(--size-logo);
+    height: var(--size-logo);
+}
+
+header h1 {
+    font-size: 4.5em;
+    color: #550056;
+}
+header h2 {
+    font-size: 2.0em;
+}
