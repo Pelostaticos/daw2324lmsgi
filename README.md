@@ -4,6 +4,8 @@
 
 *Las primeras tareas (T1 y T2) de este módulo, aunque fundamentales para la comprensión de los lenguajes de marcas básicos (HTML y XML/CSS), son principalmente ejercicios conceptuales y de validación que no generan un código fuente único y autocontenido para ser mostrado. Por lo tanto, este repositorio se centra en el código generado a partir de la Tarea 3 en adelante, donde se requiere la creación de ficheros XML, DTD, XSD, XSL y consultas XQuery. Las tareas de este módulo no relacionadas con la generación de código (como la T1 y T2) no están representadas aquí.*
 
+![Imagen destable del repositorio de Lenguaje de Marcas](https://bitgarcia.es/wp-content/uploads/2025/12/destacable-daw2324lmsgi.png)
+
 ## 📋 Resumen de Tareas de Codificación Incluidas
 
 El código fuente de este repositorio se estructura alrededor de las siguientes unidades y tareas, que cubren los principales estándares de definición, transformación y consulta de documentos XML:
