@@ -2,6 +2,8 @@
 
 * <u>Módulo</u>: Lenguajes de Marcas y Sistemas de Gestión de la Información (LMSGI)
 * <u>Unidad de Trabajo</u>: UT05. Conversión y adaptación de documentos XML.
+* <u>Profesor</u>: **Pepe Lluyot Sánchez**
+* <u>Centro</u>: [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 * <u>Curso Académico</u>: 2023/2024 (Referencia)
 
 ## 📝 Descripción del Proyecto

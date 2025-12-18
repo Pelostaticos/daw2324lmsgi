@@ -30,3 +30,7 @@ Este repositorio contiene las soluciones prácticas (código fuente y archivos d
 Este conjunto de ejercicios demuestra la comprensión y aplicación práctica de los lenguajes de marcas avanzados. Cada carpeta de tarea contiene los archivos necesarios (XML, XSD, XSL, XQuery) para validar, transformar o consultar la información estructurada, cumpliendo con los resultados de aprendizaje definidos para la segunda mitad del módulo LMSGI.
 
 Espero que esta documentación sea de utilidad para el seguimiento y evaluación del progreso en el módulo.
+
+<u>Profesor</u>: **Pepe Lluyot Sánchez** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
+
+Desarrollado como parte de la formación DAW durante el Curso 2023/2024.
